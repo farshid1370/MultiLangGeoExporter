@@ -53,40 +53,47 @@ Three JSON files will be generated:
 #### `countries.json`
 ```json
 {
-  "Id": "GUID",
-  "Name_EN": "Iran",
-  "Name_FA": "ایران",
-  "Name_AR": "إيران",
-  "TimeZone": "Asia/Tehran",
-  "PhoneCode": "98",
-  "Latitude": 32.0,
-  "Longitude": 53.0
+  "Id": "6252001",
+  "Code": "US",
+  "languages": "en-US,es-US,haw,fr",
+  "Name_EN": "United States",
+  "Name_FA": "ایالات متحده امریکا",
+  "Name_AR": "الاولايات المتحدة الامريكية",
+  "PhoneCode": "1",
+  "Latitude": 38.55309931506852,
+  "Longitude": -90.55750630367564
 }
 ```
 
 #### `states.json`
 ```json
 {
-  "Id": "GUID",
-  "Name_EN": "Tehran",
-  "Name_FA": "تهران",
-  "Name_AR": "طهران",
-  "CountryId": "GUID of the country",
-  "Latitude": 35.6892,
-  "Longitude": 51.3890
+  "Id": "4155751",
+  "Code": "US.FL",
+  "CountryId": "6252001",
+  "CountryCode": "US",
+  "Name_EN": "Florida",
+  "Name_FA": "فلوریدا",
+  "Name_AR": "فلوريدا",
+  "Latitude": 27.976960150637286,
+  "Longitude": -81.96234544611828
 }
 ```
 
 #### `cities.json`
 ```json
 {
-  "Id": "GUID",
-  "Name_EN": "Shiraz",
-  "Name_FA": "شیراز",
-  "Name_AR": "شيراز",
-  "StateId": "GUID of the state",
-  "Latitude": 29.5918,
-  "Longitude": 52.5836
+  "Id": "4145941",
+  "StateId": "4155751",
+  "StateCode": "US.FL",
+  "CountryId": "6252001",
+  "CountryCode": "US",
+  "Name_EN": "Altamonte Springs",
+  "Name_FA": "التامونت اسپرینگز، فلوریدا",
+  "Name_AR": "التامونت سبرنغز",
+  "Latitude": 28.66111,
+  "Longitude": -81.36562,
+  "TimeZone": "America/New_York"
 }
 ```
 
@@ -101,7 +108,7 @@ Three JSON files will be generated:
 3. Run the script using:
 
 ```bash
-python App.py
+python app.py
 ```
 
 4. Output files `countries.json`, `states.json`, and `cities.json` will be created in the same directory.
@@ -117,4 +124,4 @@ python App.py
 
 ## 🧑‍💻 Author
 
-This project was built by Farshid and is open for personal or organizational use.
+This project was built by Farshid Amirkhani and is open for personal or organizational use.
