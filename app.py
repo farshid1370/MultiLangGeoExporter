@@ -124,8 +124,8 @@ with open("cities500.txt", encoding='utf-8') as f:
 
         geonameid = parts[0]
         name_en = parts[2]
-        lat = float(parts[4])
-        lon = float(parts[5])
+        lat = round(float(parts[4]),5)
+        lon = round(float(parts[5]),5)
         country_iso = parts[8]
         admin1 = parts[10]
         timezone = parts[17]
@@ -163,14 +163,14 @@ print("[*] Calculating average coordinates for states and countries...")
 for code, coords in state_coords.items():
     if code in states:
         lats, lons = zip(*coords)
-        states[code]["Latitude"] = sum(lats) / len(lats)
-        states[code]["Longitude"] = sum(lons) / len(lons)
+        states[code]["Latitude"] = round(sum(lats) / len(lats),5)
+        states[code]["Longitude"] = round(sum(lons) / len(lons),5)
 
 for iso, coords in country_coords.items():
     if iso in countries:
         lats, lons = zip(*coords)
-        countries[iso]["Latitude"] = sum(lats) / len(lats)
-        countries[iso]["Longitude"] = sum(lons) / len(lons)
+        countries[iso]["Latitude"] = round(sum(lats) / len(lats),5)
+        countries[iso]["Longitude"] = round(sum(lons) / len(lons),5)
 
 print("[+] Average coordinates updated.")
 

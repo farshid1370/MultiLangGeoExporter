@@ -26,9 +26,6 @@ Download and place the following files in the same folder as `App.py`:
 - Calculates average latitude and longitude for states and countries based on cities and states respectively.
 - Outputs JSON files: `countries.json`, `states.json`, and `cities.json`.
 
-
-
-
 ### ⚖️ Difference Between `cities500.txt` and `cities15000.txt`
 
 | File               | Min Population | Approx Size | Description |
@@ -48,9 +45,10 @@ Three JSON files will be generated:
 - `states.json` ✅ States or provinces
 - `cities.json` ✅ Cities
 
-### JSON Structure:
+### JSON Structure
 
 #### `countries.json`
+
 ```json
 {
   "Id": "6252001",
@@ -60,12 +58,13 @@ Three JSON files will be generated:
   "Name_FA": "ایالات متحده امریکا",
   "Name_AR": "الاولايات المتحدة الامريكية",
   "PhoneCode": "1",
-  "Latitude": 38.55309931506852,
-  "Longitude": -90.55750630367564
+  "Latitude": 38.5531,
+  "Longitude": -90.55751
 }
 ```
 
 #### `states.json`
+
 ```json
 {
   "Id": "4155751",
@@ -75,12 +74,13 @@ Three JSON files will be generated:
   "Name_EN": "Florida",
   "Name_FA": "فلوریدا",
   "Name_AR": "فلوريدا",
-  "Latitude": 27.976960150637286,
-  "Longitude": -81.96234544611828
+  "Latitude": 27.97696,
+  "Longitude": -81.96234
 }
 ```
 
 #### `cities.json`
+
 ```json
 {
   "Id": "4145941",
@@ -111,7 +111,7 @@ Three JSON files will be generated:
 python app.py
 ```
 
-4. Output files `countries.json`, `states.json`, and `cities.json` will be created in the same directory.
+1. Output files `countries.json`, `states.json`, and `cities.json` will be created in the same directory.
 
 ---
 
