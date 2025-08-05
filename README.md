@@ -96,7 +96,7 @@ Three JSON files will be generated:
 
 1. Make sure Python 3 is installed on your system.
 
-2. Open terminal or CMD and navigate to the folder containing `App.py`.
+2. Open terminal or CMD and navigate to the folder containing `app.py`.
 
 3. Run the script using:
 
