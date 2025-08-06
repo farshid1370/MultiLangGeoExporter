@@ -65,7 +65,7 @@ with open("countryInfo.txt", encoding='utf-8') as f:
         countries[iso] = {
             "Id": str(geonameid),
             "Code": iso,
-            "languages": languages,
+            "Languages": languages,
             "Name_EN": name_en,
             "Name_FA": alt_names.get(geonameid, {}).get('fa') or "",
             "Name_AR": alt_names.get(geonameid, {}).get('ar') or "",

@@ -53,11 +53,11 @@ Three JSON files will be generated:
 {
   "Id": "6252001",
   "Code": "US",
-  "languages": "en-US,es-US,haw,fr",
+  "Languages": "en-US,es-US,haw,fr",
   "Name_EN": "United States",
   "Name_FA": "ایالات متحده امریکا",
   "Name_AR": "الاولايات المتحدة الامريكية",
-  "PhoneCode": "1",
+  "CallingCode": "+1",
   "Latitude": 38.5531,
   "Longitude": -90.55751
 }

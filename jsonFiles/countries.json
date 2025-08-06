@@ -2,7 +2,7 @@
   {
     "Id": "3041565",
     "Code": "AD",
-    "languages": "ca",
+    "Languages": "ca",
     "Name_EN": "Andorra",
     "Name_FA": "اندورا",
     "Name_AR": "اندورا",
@@ -13,7 +13,7 @@
   {
     "Id": "290557",
     "Code": "AE",
-    "languages": "ar-AE,fa,en,hi,ur",
+    "Languages": "ar-AE,fa,en,hi,ur",
     "Name_EN": "United Arab Emirates",
     "Name_FA": "امارات متحده عربی",
     "Name_AR": "الامارات العربية المتحدة",
@@ -24,7 +24,7 @@
   {
     "Id": "1149361",
     "Code": "AF",
-    "languages": "fa-AF,ps,uz-AF,tk",
+    "Languages": "fa-AF,ps,uz-AF,tk",
     "Name_EN": "Afghanistan",
     "Name_FA": "افغانستان",
     "Name_AR": "افغانستان",
@@ -35,7 +35,7 @@
   {
     "Id": "3576396",
     "Code": "AG",
-    "languages": "en-AG",
+    "Languages": "en-AG",
     "Name_EN": "Antigua and Barbuda",
     "Name_FA": "انتیگوا و باربودا",
     "Name_AR": "انتيغوا وبربودا",
@@ -46,7 +46,7 @@
   {
     "Id": "3573511",
     "Code": "AI",
-    "languages": "en-AI",
+    "Languages": "en-AI",
     "Name_EN": "Anguilla",
     "Name_FA": "انگیل",
     "Name_AR": "انغويلا",
@@ -57,7 +57,7 @@
   {
     "Id": "783754",
     "Code": "AL",
-    "languages": "sq,el",
+    "Languages": "sq,el",
     "Name_EN": "Albania",
     "Name_FA": "البانی",
     "Name_AR": "البانيا",
@@ -68,7 +68,7 @@
   {
     "Id": "174982",
     "Code": "AM",
-    "languages": "hy",
+    "Languages": "hy",
     "Name_EN": "Armenia",
     "Name_FA": "ارمنستان",
     "Name_AR": "ارمينيا",
@@ -79,7 +79,7 @@
   {
     "Id": "3351879",
     "Code": "AO",
-    "languages": "pt-AO",
+    "Languages": "pt-AO",
     "Name_EN": "Angola",
     "Name_FA": "انگولا",
     "Name_AR": "انغولا",
@@ -90,7 +90,7 @@
   {
     "Id": "6697173",
     "Code": "AQ",
-    "languages": "",
+    "Languages": "",
     "Name_EN": "Antarctica",
     "Name_FA": "جنوبگان",
     "Name_AR": "القطب الجنوبي",
@@ -101,7 +101,7 @@
   {
     "Id": "3865483",
     "Code": "AR",
-    "languages": "es-AR,en,it,de,fr,gn",
+    "Languages": "es-AR,en,it,de,fr,gn",
     "Name_EN": "Argentina",
     "Name_FA": "ارژانتین",
     "Name_AR": "الارجنتين",
@@ -112,7 +112,7 @@
   {
     "Id": "5880801",
     "Code": "AS",
-    "languages": "en-AS,sm,to",
+    "Languages": "en-AS,sm,to",
     "Name_EN": "American Samoa",
     "Name_FA": "ساموای امریکا",
     "Name_AR": "ساموا الامريكية",
@@ -123,7 +123,7 @@
   {
     "Id": "2782113",
     "Code": "AT",
-    "languages": "de-AT,hr,hu,sl",
+    "Languages": "de-AT,hr,hu,sl",
     "Name_EN": "Austria",
     "Name_FA": "اتریش",
     "Name_AR": "النمسا",
@@ -134,7 +134,7 @@
   {
     "Id": "2077456",
     "Code": "AU",
-    "languages": "en-AU",
+    "Languages": "en-AU",
     "Name_EN": "Australia",
     "Name_FA": "استرالیا",
     "Name_AR": "استراليا",
@@ -145,7 +145,7 @@
   {
     "Id": "3577279",
     "Code": "AW",
-    "languages": "nl-AW,pap,es,en",
+    "Languages": "nl-AW,pap,es,en",
     "Name_EN": "Aruba",
     "Name_FA": "اروبا",
     "Name_AR": "اروبا",
@@ -156,7 +156,7 @@
   {
     "Id": "661882",
     "Code": "AX",
-    "languages": "sv-AX",
+    "Languages": "sv-AX",
     "Name_EN": "Aland Islands",
     "Name_FA": "جزایر الاند",
     "Name_AR": "اولان",
@@ -167,7 +167,7 @@
   {
     "Id": "587116",
     "Code": "AZ",
-    "languages": "az,ru,hy",
+    "Languages": "az,ru,hy",
     "Name_EN": "Azerbaijan",
     "Name_FA": "جمهوری اذربایجان",
     "Name_AR": "اذربيجان",
@@ -178,7 +178,7 @@
   {
     "Id": "3277605",
     "Code": "BA",
-    "languages": "bs,hr-BA,sr-BA",
+    "Languages": "bs,hr-BA,sr-BA",
     "Name_EN": "Bosnia and Herzegovina",
     "Name_FA": "بوسنی و هرزگوین",
     "Name_AR": "البوسنة والهرسك",
@@ -189,7 +189,7 @@
   {
     "Id": "3374084",
     "Code": "BB",
-    "languages": "en-BB",
+    "Languages": "en-BB",
     "Name_EN": "Barbados",
     "Name_FA": "باربادوس",
     "Name_AR": "بربادوس",
@@ -200,7 +200,7 @@
   {
     "Id": "1210997",
     "Code": "BD",
-    "languages": "bn-BD,en",
+    "Languages": "bn-BD,en",
     "Name_EN": "Bangladesh",
     "Name_FA": "بنگلادش",
     "Name_AR": "بنغلاديش",
@@ -211,7 +211,7 @@
   {
     "Id": "2802361",
     "Code": "BE",
-    "languages": "nl-BE,fr-BE,de-BE",
+    "Languages": "nl-BE,fr-BE,de-BE",
     "Name_EN": "Belgium",
     "Name_FA": "بلژیک",
     "Name_AR": "بلجيكا",
@@ -222,7 +222,7 @@
   {
     "Id": "2361809",
     "Code": "BF",
-    "languages": "fr-BF,mos",
+    "Languages": "fr-BF,mos",
     "Name_EN": "Burkina Faso",
     "Name_FA": "بورکینافاسو",
     "Name_AR": "بوركينا فاسو",
@@ -233,7 +233,7 @@
   {
     "Id": "732800",
     "Code": "BG",
-    "languages": "bg,tr-BG,rom",
+    "Languages": "bg,tr-BG,rom",
     "Name_EN": "Bulgaria",
     "Name_FA": "بلغارستان",
     "Name_AR": "بلغاريا",
@@ -244,7 +244,7 @@
   {
     "Id": "290291",
     "Code": "BH",
-    "languages": "ar-BH,en,fa,ur",
+    "Languages": "ar-BH,en,fa,ur",
     "Name_EN": "Bahrain",
     "Name_FA": "بحرین",
     "Name_AR": "البحرين",
@@ -255,7 +255,7 @@
   {
     "Id": "433561",
     "Code": "BI",
-    "languages": "fr-BI,rn",
+    "Languages": "fr-BI,rn",
     "Name_EN": "Burundi",
     "Name_FA": "بوروندی",
     "Name_AR": "بوروندي",
@@ -266,7 +266,7 @@
   {
     "Id": "2395170",
     "Code": "BJ",
-    "languages": "fr-BJ",
+    "Languages": "fr-BJ",
     "Name_EN": "Benin",
     "Name_FA": "بنین",
     "Name_AR": "بنين",
@@ -277,7 +277,7 @@
   {
     "Id": "3578476",
     "Code": "BL",
-    "languages": "fr",
+    "Languages": "fr",
     "Name_EN": "Saint Barthelemy",
     "Name_FA": "سن بارتلمی",
     "Name_AR": "سان بارتليمي",
@@ -288,7 +288,7 @@
   {
     "Id": "3573345",
     "Code": "BM",
-    "languages": "en-BM,pt",
+    "Languages": "en-BM,pt",
     "Name_EN": "Bermuda",
     "Name_FA": "برمودا",
     "Name_AR": "برمودا",
@@ -299,7 +299,7 @@
   {
     "Id": "1820814",
     "Code": "BN",
-    "languages": "ms-BN,en-BN",
+    "Languages": "ms-BN,en-BN",
     "Name_EN": "Brunei",
     "Name_FA": "برونيی",
     "Name_AR": "بروناي",
@@ -310,7 +310,7 @@
   {
     "Id": "3923057",
     "Code": "BO",
-    "languages": "es-BO,qu,ay",
+    "Languages": "es-BO,qu,ay",
     "Name_EN": "Bolivia",
     "Name_FA": "بولیوی",
     "Name_AR": "بوليفيا",
@@ -321,7 +321,7 @@
   {
     "Id": "7626844",
     "Code": "BQ",
-    "languages": "nl,pap,en",
+    "Languages": "nl,pap,en",
     "Name_EN": "Bonaire, Saint Eustatius and Saba ",
     "Name_FA": "جزایر کارايیب هلند",
     "Name_AR": "بونير وسينت اوستاتيوس وسابا",
@@ -332,7 +332,7 @@
   {
     "Id": "3469034",
     "Code": "BR",
-    "languages": "pt-BR,es,en,fr",
+    "Languages": "pt-BR,es,en,fr",
     "Name_EN": "Brazil",
     "Name_FA": "برزیل",
     "Name_AR": "البرازيل",
@@ -343,7 +343,7 @@
   {
     "Id": "3572887",
     "Code": "BS",
-    "languages": "en-BS",
+    "Languages": "en-BS",
     "Name_EN": "Bahamas",
     "Name_FA": "باهاما",
     "Name_AR": "البهاما",
@@ -354,7 +354,7 @@
   {
     "Id": "1252634",
     "Code": "BT",
-    "languages": "dz",
+    "Languages": "dz",
     "Name_EN": "Bhutan",
     "Name_FA": "بوتان",
     "Name_AR": "بوتان",
@@ -365,7 +365,7 @@
   {
     "Id": "3371123",
     "Code": "BV",
-    "languages": "",
+    "Languages": "",
     "Name_EN": "Bouvet Island",
     "Name_FA": "جزیره بووت",
     "Name_AR": "جزيرة بوفيه",
@@ -376,7 +376,7 @@
   {
     "Id": "933860",
     "Code": "BW",
-    "languages": "en-BW,tn-BW",
+    "Languages": "en-BW,tn-BW",
     "Name_EN": "Botswana",
     "Name_FA": "بوتسوانا",
     "Name_AR": "بوتسوانا",
@@ -387,7 +387,7 @@
   {
     "Id": "630336",
     "Code": "BY",
-    "languages": "be,ru",
+    "Languages": "be,ru",
     "Name_EN": "Belarus",
     "Name_FA": "بیلوروسی",
     "Name_AR": "بيلاروس",
@@ -398,7 +398,7 @@
   {
     "Id": "3582678",
     "Code": "BZ",
-    "languages": "en-BZ,es",
+    "Languages": "en-BZ,es",
     "Name_EN": "Belize",
     "Name_FA": "بلیز",
     "Name_AR": "بليز",
@@ -409,7 +409,7 @@
   {
     "Id": "6251999",
     "Code": "CA",
-    "languages": "en-CA,fr-CA,iu",
+    "Languages": "en-CA,fr-CA,iu",
     "Name_EN": "Canada",
     "Name_FA": "کانادا",
     "Name_AR": "كندا",
@@ -420,7 +420,7 @@
   {
     "Id": "1547376",
     "Code": "CC",
-    "languages": "ms-CC,en",
+    "Languages": "ms-CC,en",
     "Name_EN": "Cocos Islands",
     "Name_FA": "جزایر کوکوس",
     "Name_AR": "جزر كوكوس (كيلينغ)",
@@ -431,7 +431,7 @@
   {
     "Id": "203312",
     "Code": "CD",
-    "languages": "fr-CD,ln,ktu,kg,sw,lua",
+    "Languages": "fr-CD,ln,ktu,kg,sw,lua",
     "Name_EN": "Democratic Republic of the Congo",
     "Name_FA": "کنگو - کینشاسا",
     "Name_AR": "جمهورية الكونغو الديمقراطية",
@@ -442,7 +442,7 @@
   {
     "Id": "239880",
     "Code": "CF",
-    "languages": "fr-CF,sg,ln,kg",
+    "Languages": "fr-CF,sg,ln,kg",
     "Name_EN": "Central African Republic",
     "Name_FA": "جمهوری افریقای مرکزی",
     "Name_AR": "جمهورية افريقيا الوسطى",
@@ -453,7 +453,7 @@
   {
     "Id": "2260494",
     "Code": "CG",
-    "languages": "fr-CG,kg,ln-CG",
+    "Languages": "fr-CG,kg,ln-CG",
     "Name_EN": "Republic of the Congo",
     "Name_FA": "کنگو (جمهوری)",
     "Name_AR": "الكونغو",
@@ -464,7 +464,7 @@
   {
     "Id": "2658434",
     "Code": "CH",
-    "languages": "de-CH,fr-CH,it-CH,rm",
+    "Languages": "de-CH,fr-CH,it-CH,rm",
     "Name_EN": "Switzerland",
     "Name_FA": "سويیس",
     "Name_AR": "سويسرا",
@@ -475,7 +475,7 @@
   {
     "Id": "2287781",
     "Code": "CI",
-    "languages": "fr-CI",
+    "Languages": "fr-CI",
     "Name_EN": "Ivory Coast",
     "Name_FA": "ساحل‌عاج",
     "Name_AR": "ساحل العاج",
@@ -486,7 +486,7 @@
   {
     "Id": "1899402",
     "Code": "CK",
-    "languages": "en-CK,mi",
+    "Languages": "en-CK,mi",
     "Name_EN": "Cook Islands",
     "Name_FA": "جزایر کوک",
     "Name_AR": "جزر كوك",
@@ -497,7 +497,7 @@
   {
     "Id": "3895114",
     "Code": "CL",
-    "languages": "es-CL",
+    "Languages": "es-CL",
     "Name_EN": "Chile",
     "Name_FA": "شیلی",
     "Name_AR": "تشيلي",
@@ -508,7 +508,7 @@
   {
     "Id": "2233387",
     "Code": "CM",
-    "languages": "en-CM,fr-CM",
+    "Languages": "en-CM,fr-CM",
     "Name_EN": "Cameroon",
     "Name_FA": "کامرون",
     "Name_AR": "الكاميرون",
@@ -519,7 +519,7 @@
   {
     "Id": "1814991",
     "Code": "CN",
-    "languages": "zh-CN,yue,wuu,dta,ug,za",
+    "Languages": "zh-CN,yue,wuu,dta,ug,za",
     "Name_EN": "China",
     "Name_FA": "چین",
     "Name_AR": "الصين",
@@ -530,7 +530,7 @@
   {
     "Id": "3686110",
     "Code": "CO",
-    "languages": "es-CO",
+    "Languages": "es-CO",
     "Name_EN": "Colombia",
     "Name_FA": "کلمبیا",
     "Name_AR": "كولومبيا",
@@ -541,7 +541,7 @@
   {
     "Id": "3624060",
     "Code": "CR",
-    "languages": "es-CR,en",
+    "Languages": "es-CR,en",
     "Name_EN": "Costa Rica",
     "Name_FA": "کاستاریکا",
     "Name_AR": "كوستاريكا",
@@ -552,7 +552,7 @@
   {
     "Id": "3562981",
     "Code": "CU",
-    "languages": "es-CU,pap",
+    "Languages": "es-CU,pap",
     "Name_EN": "Cuba",
     "Name_FA": "کوبا",
     "Name_AR": "كوبا",
@@ -563,7 +563,7 @@
   {
     "Id": "3374766",
     "Code": "CV",
-    "languages": "pt-CV",
+    "Languages": "pt-CV",
     "Name_EN": "Cabo Verde",
     "Name_FA": "کیپ‌ورد",
     "Name_AR": "الراس الاخضر",
@@ -574,7 +574,7 @@
   {
     "Id": "7626836",
     "Code": "CW",
-    "languages": "nl,pap",
+    "Languages": "nl,pap",
     "Name_EN": "Curacao",
     "Name_FA": "کوراسايو",
     "Name_AR": "كوراساو",
@@ -585,7 +585,7 @@
   {
     "Id": "2078138",
     "Code": "CX",
-    "languages": "en,zh,ms-CX",
+    "Languages": "en,zh,ms-CX",
     "Name_EN": "Christmas Island",
     "Name_FA": "جزیره کریسمس",
     "Name_AR": "جزيرة كريسماس",
@@ -596,7 +596,7 @@
   {
     "Id": "146669",
     "Code": "CY",
-    "languages": "el-CY,tr-CY,en",
+    "Languages": "el-CY,tr-CY,en",
     "Name_EN": "Cyprus",
     "Name_FA": "قبرس",
     "Name_AR": "قبرص",
@@ -607,7 +607,7 @@
   {
     "Id": "3077311",
     "Code": "CZ",
-    "languages": "cs,sk",
+    "Languages": "cs,sk",
     "Name_EN": "Czechia",
     "Name_FA": "چک",
     "Name_AR": "التشيك",
@@ -618,7 +618,7 @@
   {
     "Id": "2921044",
     "Code": "DE",
-    "languages": "de",
+    "Languages": "de",
     "Name_EN": "Germany",
     "Name_FA": "المان",
     "Name_AR": "المانيا",
@@ -629,7 +629,7 @@
   {
     "Id": "223816",
     "Code": "DJ",
-    "languages": "fr-DJ,ar,so-DJ,aa",
+    "Languages": "fr-DJ,ar,so-DJ,aa",
     "Name_EN": "Djibouti",
     "Name_FA": "جیبوتی",
     "Name_AR": "جيبوتي",
@@ -640,7 +640,7 @@
   {
     "Id": "2623032",
     "Code": "DK",
-    "languages": "da-DK,en,fo,de-DK",
+    "Languages": "da-DK,en,fo,de-DK",
     "Name_EN": "Denmark",
     "Name_FA": "دانمارک",
     "Name_AR": "الدانمرك",
@@ -651,7 +651,7 @@
   {
     "Id": "3575830",
     "Code": "DM",
-    "languages": "en-DM",
+    "Languages": "en-DM",
     "Name_EN": "Dominica",
     "Name_FA": "دومینیک",
     "Name_AR": "دومينيكا",
@@ -662,7 +662,7 @@
   {
     "Id": "3508796",
     "Code": "DO",
-    "languages": "es-DO",
+    "Languages": "es-DO",
     "Name_EN": "Dominican Republic",
     "Name_FA": "جمهوری دومینیکن",
     "Name_AR": "الجمهورية الدومينيكية",
@@ -673,7 +673,7 @@
   {
     "Id": "2589581",
     "Code": "DZ",
-    "languages": "ar-DZ",
+    "Languages": "ar-DZ",
     "Name_EN": "Algeria",
     "Name_FA": "الجزایر",
     "Name_AR": "الجزاير",
@@ -684,7 +684,7 @@
   {
     "Id": "3658394",
     "Code": "EC",
-    "languages": "es-EC",
+    "Languages": "es-EC",
     "Name_EN": "Ecuador",
     "Name_FA": "اکوادور",
     "Name_AR": "اكوادور",
@@ -695,7 +695,7 @@
   {
     "Id": "453733",
     "Code": "EE",
-    "languages": "et,ru",
+    "Languages": "et,ru",
     "Name_EN": "Estonia",
     "Name_FA": "استونی",
     "Name_AR": "استونيا",
@@ -706,7 +706,7 @@
   {
     "Id": "357994",
     "Code": "EG",
-    "languages": "ar-EG,en,fr",
+    "Languages": "ar-EG,en,fr",
     "Name_EN": "Egypt",
     "Name_FA": "مصر",
     "Name_AR": "مصر",
@@ -717,7 +717,7 @@
   {
     "Id": "2461445",
     "Code": "EH",
-    "languages": "ar,mey",
+    "Languages": "ar,mey",
     "Name_EN": "Western Sahara",
     "Name_FA": "صحرای غربی",
     "Name_AR": "لصحراء الغربية",
@@ -728,7 +728,7 @@
   {
     "Id": "338010",
     "Code": "ER",
-    "languages": "aa-ER,ar,tig,kun,ti-ER",
+    "Languages": "aa-ER,ar,tig,kun,ti-ER",
     "Name_EN": "Eritrea",
     "Name_FA": "اریتره",
     "Name_AR": "ارتيريا",
@@ -739,7 +739,7 @@
   {
     "Id": "2510769",
     "Code": "ES",
-    "languages": "es-ES,ca,gl,eu,oc",
+    "Languages": "es-ES,ca,gl,eu,oc",
     "Name_EN": "Spain",
     "Name_FA": "اسپانیا",
     "Name_AR": "اسبانيا",
@@ -750,7 +750,7 @@
   {
     "Id": "337996",
     "Code": "ET",
-    "languages": "am,en-ET,om-ET,ti-ET,so-ET,sid",
+    "Languages": "am,en-ET,om-ET,ti-ET,so-ET,sid",
     "Name_EN": "Ethiopia",
     "Name_FA": "اتیوپی",
     "Name_AR": "اثيوبيا",
@@ -761,7 +761,7 @@
   {
     "Id": "660013",
     "Code": "FI",
-    "languages": "fi-FI,sv-FI,smn",
+    "Languages": "fi-FI,sv-FI,smn",
     "Name_EN": "Finland",
     "Name_FA": "فنلاند",
     "Name_AR": "فنلندا",
@@ -772,7 +772,7 @@
   {
     "Id": "2205218",
     "Code": "FJ",
-    "languages": "en-FJ,fj",
+    "Languages": "en-FJ,fj",
     "Name_EN": "Fiji",
     "Name_FA": "فیجی",
     "Name_AR": "فيجي",
@@ -783,7 +783,7 @@
   {
     "Id": "3474414",
     "Code": "FK",
-    "languages": "en-FK",
+    "Languages": "en-FK",
     "Name_EN": "Falkland Islands",
     "Name_FA": "جزایر فالکلند",
     "Name_AR": "جزر فوكلاند",
@@ -794,7 +794,7 @@
   {
     "Id": "2081918",
     "Code": "FM",
-    "languages": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
+    "Languages": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
     "Name_EN": "Micronesia",
     "Name_FA": "میکرونزی",
     "Name_AR": "ميكرونيزيا",
@@ -805,7 +805,7 @@
   {
     "Id": "2622320",
     "Code": "FO",
-    "languages": "fo,da-FO",
+    "Languages": "fo,da-FO",
     "Name_EN": "Faroe Islands",
     "Name_FA": "جزایر فارو",
     "Name_AR": "جزر فارو",
@@ -816,7 +816,7 @@
   {
     "Id": "3017382",
     "Code": "FR",
-    "languages": "fr-FR,frp,br,co,ca,eu,oc",
+    "Languages": "fr-FR,frp,br,co,ca,eu,oc",
     "Name_EN": "France",
     "Name_FA": "فرانسه",
     "Name_AR": "فرنسا",
@@ -827,7 +827,7 @@
   {
     "Id": "2400553",
     "Code": "GA",
-    "languages": "fr-GA",
+    "Languages": "fr-GA",
     "Name_EN": "Gabon",
     "Name_FA": "گابون",
     "Name_AR": "غابون",
@@ -838,7 +838,7 @@
   {
     "Id": "2635167",
     "Code": "GB",
-    "languages": "en-GB,cy-GB,gd",
+    "Languages": "en-GB,cy-GB,gd",
     "Name_EN": "United Kingdom",
     "Name_FA": "بریتانیا",
     "Name_AR": "المملكة المتحدة",
@@ -849,7 +849,7 @@
   {
     "Id": "3580239",
     "Code": "GD",
-    "languages": "en-GD",
+    "Languages": "en-GD",
     "Name_EN": "Grenada",
     "Name_FA": "گرانادا",
     "Name_AR": "غرينادا",
@@ -860,7 +860,7 @@
   {
     "Id": "614540",
     "Code": "GE",
-    "languages": "ka,ru,hy,az",
+    "Languages": "ka,ru,hy,az",
     "Name_EN": "Georgia",
     "Name_FA": "گرجستان",
     "Name_AR": "جورجيا",
@@ -871,7 +871,7 @@
   {
     "Id": "3381670",
     "Code": "GF",
-    "languages": "fr-GF",
+    "Languages": "fr-GF",
     "Name_EN": "French Guiana",
     "Name_FA": "گویان فرانسه",
     "Name_AR": "غويانا الفرنسية",
@@ -882,7 +882,7 @@
   {
     "Id": "3042362",
     "Code": "GG",
-    "languages": "en,nrf",
+    "Languages": "en,nrf",
     "Name_EN": "Guernsey",
     "Name_FA": "گرنزی",
     "Name_AR": "غيرنزي",
@@ -893,7 +893,7 @@
   {
     "Id": "2300660",
     "Code": "GH",
-    "languages": "en-GH,ak,ee,tw",
+    "Languages": "en-GH,ak,ee,tw",
     "Name_EN": "Ghana",
     "Name_FA": "غنا",
     "Name_AR": "غانا",
@@ -904,7 +904,7 @@
   {
     "Id": "2411586",
     "Code": "GI",
-    "languages": "en-GI,es,it,pt",
+    "Languages": "en-GI,es,it,pt",
     "Name_EN": "Gibraltar",
     "Name_FA": "جبل طارق",
     "Name_AR": "مستعمرة جبل طارق",
@@ -915,7 +915,7 @@
   {
     "Id": "3425505",
     "Code": "GL",
-    "languages": "kl,da-GL,en",
+    "Languages": "kl,da-GL,en",
     "Name_EN": "Greenland",
     "Name_FA": "گروينلند",
     "Name_AR": "غرينلاند",
@@ -926,7 +926,7 @@
   {
     "Id": "2413451",
     "Code": "GM",
-    "languages": "en-GM,mnk,wof,wo,ff",
+    "Languages": "en-GM,mnk,wof,wo,ff",
     "Name_EN": "Gambia",
     "Name_FA": "گامبیا",
     "Name_AR": "غامبيا",
@@ -937,7 +937,7 @@
   {
     "Id": "2420477",
     "Code": "GN",
-    "languages": "fr-GN",
+    "Languages": "fr-GN",
     "Name_EN": "Guinea",
     "Name_FA": "گینه",
     "Name_AR": "غينيا",
@@ -948,7 +948,7 @@
   {
     "Id": "3579143",
     "Code": "GP",
-    "languages": "fr-GP",
+    "Languages": "fr-GP",
     "Name_EN": "Guadeloupe",
     "Name_FA": "گوادلوپ",
     "Name_AR": "غوادلوب",
@@ -959,7 +959,7 @@
   {
     "Id": "2309096",
     "Code": "GQ",
-    "languages": "es-GQ,fr,pt",
+    "Languages": "es-GQ,fr,pt",
     "Name_EN": "Equatorial Guinea",
     "Name_FA": "گینه استوایی",
     "Name_AR": "غينيا الاستوايية",
@@ -970,7 +970,7 @@
   {
     "Id": "390903",
     "Code": "GR",
-    "languages": "el-GR,en,fr",
+    "Languages": "el-GR,en,fr",
     "Name_EN": "Greece",
     "Name_FA": "یونان",
     "Name_AR": "اليونان",
@@ -981,7 +981,7 @@
   {
     "Id": "3474415",
     "Code": "GS",
-    "languages": "en",
+    "Languages": "en",
     "Name_EN": "South Georgia and the South Sandwich Islands",
     "Name_FA": "جورجیای جنوبی و جزایر ساندویچ جنوبی",
     "Name_AR": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
@@ -992,7 +992,7 @@
   {
     "Id": "3595528",
     "Code": "GT",
-    "languages": "es-GT",
+    "Languages": "es-GT",
     "Name_EN": "Guatemala",
     "Name_FA": "گواتمالا",
     "Name_AR": "غواتيمالا",
@@ -1003,7 +1003,7 @@
   {
     "Id": "4043988",
     "Code": "GU",
-    "languages": "en-GU,ch-GU",
+    "Languages": "en-GU,ch-GU",
     "Name_EN": "Guam",
     "Name_FA": "گوام",
     "Name_AR": "غوام",
@@ -1014,7 +1014,7 @@
   {
     "Id": "2372248",
     "Code": "GW",
-    "languages": "pt-GW,pov",
+    "Languages": "pt-GW,pov",
     "Name_EN": "Guinea-Bissau",
     "Name_FA": "گینه بیسايو",
     "Name_AR": "غينيا بيساو",
@@ -1025,7 +1025,7 @@
   {
     "Id": "3378535",
     "Code": "GY",
-    "languages": "en-GY",
+    "Languages": "en-GY",
     "Name_EN": "Guyana",
     "Name_FA": "گویان",
     "Name_AR": "غوايانا",
@@ -1036,7 +1036,7 @@
   {
     "Id": "1819730",
     "Code": "HK",
-    "languages": "zh-HK,yue,zh,en",
+    "Languages": "zh-HK,yue,zh,en",
     "Name_EN": "Hong Kong",
     "Name_FA": "هنگ‌کنگ",
     "Name_AR": "هونغ كونغ",
@@ -1047,7 +1047,7 @@
   {
     "Id": "1547314",
     "Code": "HM",
-    "languages": "",
+    "Languages": "",
     "Name_EN": "Heard Island and McDonald Islands",
     "Name_FA": "هرد و جزایر مک‌دونالد",
     "Name_AR": "جزيرة هيرد وجزر ماكدونالد",
@@ -1058,7 +1058,7 @@
   {
     "Id": "3608932",
     "Code": "HN",
-    "languages": "es-HN,cab,miq",
+    "Languages": "es-HN,cab,miq",
     "Name_EN": "Honduras",
     "Name_FA": "هندوراس",
     "Name_AR": "هندوراس",
@@ -1069,7 +1069,7 @@
   {
     "Id": "3202326",
     "Code": "HR",
-    "languages": "hr-HR,sr",
+    "Languages": "hr-HR,sr",
     "Name_EN": "Croatia",
     "Name_FA": "کرواسی",
     "Name_AR": "كرواتيا",
@@ -1080,7 +1080,7 @@
   {
     "Id": "3723988",
     "Code": "HT",
-    "languages": "ht,fr-HT",
+    "Languages": "ht,fr-HT",
     "Name_EN": "Haiti",
     "Name_FA": "هاییتی",
     "Name_AR": "هايتي",
@@ -1091,7 +1091,7 @@
   {
     "Id": "719819",
     "Code": "HU",
-    "languages": "hu-HU",
+    "Languages": "hu-HU",
     "Name_EN": "Hungary",
     "Name_FA": "مجارستان",
     "Name_AR": "هنغاريا",
@@ -1102,7 +1102,7 @@
   {
     "Id": "1643084",
     "Code": "ID",
-    "languages": "id,en,nl,jv",
+    "Languages": "id,en,nl,jv",
     "Name_EN": "Indonesia",
     "Name_FA": "اندونزی",
     "Name_AR": "اندونيسيا",
@@ -1113,7 +1113,7 @@
   {
     "Id": "2963597",
     "Code": "IE",
-    "languages": "en-IE,ga-IE",
+    "Languages": "en-IE,ga-IE",
     "Name_EN": "Ireland",
     "Name_FA": "ایرلند",
     "Name_AR": "ايرلندا",
@@ -1124,7 +1124,7 @@
   {
     "Id": "294640",
     "Code": "IL",
-    "languages": "he,ar-IL,en-IL,",
+    "Languages": "he,ar-IL,en-IL,",
     "Name_EN": "Israel",
     "Name_FA": "اسرايیل",
     "Name_AR": "اسراييل",
@@ -1135,7 +1135,7 @@
   {
     "Id": "3042225",
     "Code": "IM",
-    "languages": "en,gv",
+    "Languages": "en,gv",
     "Name_EN": "Isle of Man",
     "Name_FA": "جزیره من",
     "Name_AR": "جزيرة مان",
@@ -1146,7 +1146,7 @@
   {
     "Id": "1269750",
     "Code": "IN",
-    "languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+    "Languages": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
     "Name_EN": "India",
     "Name_FA": "هند",
     "Name_AR": "الهند",
@@ -1157,7 +1157,7 @@
   {
     "Id": "1282588",
     "Code": "IO",
-    "languages": "en-IO",
+    "Languages": "en-IO",
     "Name_EN": "British Indian Ocean Territory",
     "Name_FA": "مستعمره‌های بریتانیا در اقیانوس هند",
     "Name_AR": "الاقليم البريطاني في المحيط الهندي",
@@ -1168,7 +1168,7 @@
   {
     "Id": "99237",
     "Code": "IQ",
-    "languages": "ar-IQ,ku,hy",
+    "Languages": "ar-IQ,ku,hy",
     "Name_EN": "Iraq",
     "Name_FA": "عراق",
     "Name_AR": "العراق",
@@ -1179,7 +1179,7 @@
   {
     "Id": "130758",
     "Code": "IR",
-    "languages": "fa-IR,ku",
+    "Languages": "fa-IR,ku",
     "Name_EN": "Iran",
     "Name_FA": "ایران",
     "Name_AR": "ايران",
@@ -1190,7 +1190,7 @@
   {
     "Id": "2629691",
     "Code": "IS",
-    "languages": "is,en,de,da,sv,no",
+    "Languages": "is,en,de,da,sv,no",
     "Name_EN": "Iceland",
     "Name_FA": "ایسلند",
     "Name_AR": "ايسلندا",
@@ -1201,7 +1201,7 @@
   {
     "Id": "3175395",
     "Code": "IT",
-    "languages": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
+    "Languages": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
     "Name_EN": "Italy",
     "Name_FA": "ایتالیا",
     "Name_AR": "ايطاليا",
@@ -1212,7 +1212,7 @@
   {
     "Id": "3042142",
     "Code": "JE",
-    "languages": "en,fr,nrf",
+    "Languages": "en,fr,nrf",
     "Name_EN": "Jersey",
     "Name_FA": "جرزی",
     "Name_AR": "جيرسي",
@@ -1223,7 +1223,7 @@
   {
     "Id": "3489940",
     "Code": "JM",
-    "languages": "en-JM",
+    "Languages": "en-JM",
     "Name_EN": "Jamaica",
     "Name_FA": "جامايیکا",
     "Name_AR": "جامايكا",
@@ -1234,7 +1234,7 @@
   {
     "Id": "248816",
     "Code": "JO",
-    "languages": "ar-JO,en",
+    "Languages": "ar-JO,en",
     "Name_EN": "Jordan",
     "Name_FA": "اردن",
     "Name_AR": "الاردن",
@@ -1245,7 +1245,7 @@
   {
     "Id": "1861060",
     "Code": "JP",
-    "languages": "ja",
+    "Languages": "ja",
     "Name_EN": "Japan",
     "Name_FA": "ژاپن",
     "Name_AR": "اليابان",
@@ -1256,7 +1256,7 @@
   {
     "Id": "192950",
     "Code": "KE",
-    "languages": "en-KE,sw-KE",
+    "Languages": "en-KE,sw-KE",
     "Name_EN": "Kenya",
     "Name_FA": "کنیا",
     "Name_AR": "كينيا",
@@ -1267,7 +1267,7 @@
   {
     "Id": "1527747",
     "Code": "KG",
-    "languages": "ky,uz,ru",
+    "Languages": "ky,uz,ru",
     "Name_EN": "Kyrgyzstan",
     "Name_FA": "قرقیزستان",
     "Name_AR": "قيرغيزستان",
@@ -1278,7 +1278,7 @@
   {
     "Id": "1831722",
     "Code": "KH",
-    "languages": "km,fr,en",
+    "Languages": "km,fr,en",
     "Name_EN": "Cambodia",
     "Name_FA": "کامبوج",
     "Name_AR": "كمبوديا",
@@ -1289,7 +1289,7 @@
   {
     "Id": "4030945",
     "Code": "KI",
-    "languages": "en-KI,gil",
+    "Languages": "en-KI,gil",
     "Name_EN": "Kiribati",
     "Name_FA": "کیریباتی",
     "Name_AR": "كيريباتي",
@@ -1300,7 +1300,7 @@
   {
     "Id": "921929",
     "Code": "KM",
-    "languages": "ar,fr-KM",
+    "Languages": "ar,fr-KM",
     "Name_EN": "Comoros",
     "Name_FA": "کومورو",
     "Name_AR": "جزر القمر",
@@ -1311,7 +1311,7 @@
   {
     "Id": "3575174",
     "Code": "KN",
-    "languages": "en-KN",
+    "Languages": "en-KN",
     "Name_EN": "Saint Kitts and Nevis",
     "Name_FA": "سنت کیتس و نویس",
     "Name_AR": "سانت كيتس ونيفيس",
@@ -1322,7 +1322,7 @@
   {
     "Id": "1873107",
     "Code": "KP",
-    "languages": "ko-KP",
+    "Languages": "ko-KP",
     "Name_EN": "North Korea",
     "Name_FA": "کره شمالی",
     "Name_AR": "كوريا الشمالية",
@@ -1333,7 +1333,7 @@
   {
     "Id": "1835841",
     "Code": "KR",
-    "languages": "ko-KR,en",
+    "Languages": "ko-KR,en",
     "Name_EN": "South Korea",
     "Name_FA": "کره جنوبی",
     "Name_AR": "كوريا الجنوبية",
@@ -1344,7 +1344,7 @@
   {
     "Id": "831053",
     "Code": "XK",
-    "languages": "sq,sr",
+    "Languages": "sq,sr",
     "Name_EN": "Kosovo",
     "Name_FA": "کوزوو",
     "Name_AR": "كوسوفو",
@@ -1355,7 +1355,7 @@
   {
     "Id": "285570",
     "Code": "KW",
-    "languages": "ar-KW,en",
+    "Languages": "ar-KW,en",
     "Name_EN": "Kuwait",
     "Name_FA": "کویت",
     "Name_AR": "الكويت",
@@ -1366,7 +1366,7 @@
   {
     "Id": "3580718",
     "Code": "KY",
-    "languages": "en-KY",
+    "Languages": "en-KY",
     "Name_EN": "Cayman Islands",
     "Name_FA": "جزایر کیمن",
     "Name_AR": "جزر الكايمن",
@@ -1377,7 +1377,7 @@
   {
     "Id": "1522867",
     "Code": "KZ",
-    "languages": "kk,ru",
+    "Languages": "kk,ru",
     "Name_EN": "Kazakhstan",
     "Name_FA": "قزاقستان",
     "Name_AR": "كازاخستان",
@@ -1388,7 +1388,7 @@
   {
     "Id": "1655842",
     "Code": "LA",
-    "languages": "lo,fr,en",
+    "Languages": "lo,fr,en",
     "Name_EN": "Laos",
     "Name_FA": "لايوس",
     "Name_AR": "لاوس",
@@ -1399,7 +1399,7 @@
   {
     "Id": "272103",
     "Code": "LB",
-    "languages": "ar-LB,fr-LB,en,hy",
+    "Languages": "ar-LB,fr-LB,en,hy",
     "Name_EN": "Lebanon",
     "Name_FA": "لبنان",
     "Name_AR": "لبنان",
@@ -1410,7 +1410,7 @@
   {
     "Id": "3576468",
     "Code": "LC",
-    "languages": "en-LC",
+    "Languages": "en-LC",
     "Name_EN": "Saint Lucia",
     "Name_FA": "سنت لوسیا",
     "Name_AR": "سانت لوسيا",
@@ -1421,7 +1421,7 @@
   {
     "Id": "3042058",
     "Code": "LI",
-    "languages": "de-LI",
+    "Languages": "de-LI",
     "Name_EN": "Liechtenstein",
     "Name_FA": "لیختن‌اشتاین",
     "Name_AR": "ليختنشتاين",
@@ -1432,7 +1432,7 @@
   {
     "Id": "1227603",
     "Code": "LK",
-    "languages": "si,ta,en",
+    "Languages": "si,ta,en",
     "Name_EN": "Sri Lanka",
     "Name_FA": "سری‌لانکا",
     "Name_AR": "سري لانكا",
@@ -1443,7 +1443,7 @@
   {
     "Id": "2275384",
     "Code": "LR",
-    "languages": "en-LR",
+    "Languages": "en-LR",
     "Name_EN": "Liberia",
     "Name_FA": "لیبریا",
     "Name_AR": "ليبيريا",
@@ -1454,7 +1454,7 @@
   {
     "Id": "932692",
     "Code": "LS",
-    "languages": "en-LS,st,zu,xh",
+    "Languages": "en-LS,st,zu,xh",
     "Name_EN": "Lesotho",
     "Name_FA": "لسوتو",
     "Name_AR": "ليسوتو",
@@ -1465,7 +1465,7 @@
   {
     "Id": "597427",
     "Code": "LT",
-    "languages": "lt,ru,pl",
+    "Languages": "lt,ru,pl",
     "Name_EN": "Lithuania",
     "Name_FA": "لیتوانی",
     "Name_AR": "ليتوانيا",
@@ -1476,7 +1476,7 @@
   {
     "Id": "2960313",
     "Code": "LU",
-    "languages": "lb,de-LU,fr-LU",
+    "Languages": "lb,de-LU,fr-LU",
     "Name_EN": "Luxembourg",
     "Name_FA": "لوکزامبورگ",
     "Name_AR": "لوكسومبرغ",
@@ -1487,7 +1487,7 @@
   {
     "Id": "458258",
     "Code": "LV",
-    "languages": "lv,ru,lt",
+    "Languages": "lv,ru,lt",
     "Name_EN": "Latvia",
     "Name_FA": "لتونی",
     "Name_AR": "لاتفيا",
@@ -1498,7 +1498,7 @@
   {
     "Id": "2215636",
     "Code": "LY",
-    "languages": "ar-LY,it,en",
+    "Languages": "ar-LY,it,en",
     "Name_EN": "Libya",
     "Name_FA": "لیبی",
     "Name_AR": "ليبيا",
@@ -1509,7 +1509,7 @@
   {
     "Id": "2542007",
     "Code": "MA",
-    "languages": "ar-MA,ber,fr",
+    "Languages": "ar-MA,ber,fr",
     "Name_EN": "Morocco",
     "Name_FA": "مراکش",
     "Name_AR": "المغرب",
@@ -1520,7 +1520,7 @@
   {
     "Id": "2993457",
     "Code": "MC",
-    "languages": "fr-MC,en,it",
+    "Languages": "fr-MC,en,it",
     "Name_EN": "Monaco",
     "Name_FA": "موناکو",
     "Name_AR": "موناكو",
@@ -1531,7 +1531,7 @@
   {
     "Id": "617790",
     "Code": "MD",
-    "languages": "ro,ru,gag,tr",
+    "Languages": "ro,ru,gag,tr",
     "Name_EN": "Moldova",
     "Name_FA": "مولدووا",
     "Name_AR": "مولدوفا",
@@ -1542,7 +1542,7 @@
   {
     "Id": "3194884",
     "Code": "ME",
-    "languages": "sr,hu,bs,sq,hr,rom",
+    "Languages": "sr,hu,bs,sq,hr,rom",
     "Name_EN": "Montenegro",
     "Name_FA": "مونته‌نگرو",
     "Name_AR": "الجبل الاسود",
@@ -1553,7 +1553,7 @@
   {
     "Id": "3578421",
     "Code": "MF",
-    "languages": "fr",
+    "Languages": "fr",
     "Name_EN": "Saint Martin",
     "Name_FA": "سنت مارتین",
     "Name_AR": "سان مارتن",
@@ -1564,7 +1564,7 @@
   {
     "Id": "1062947",
     "Code": "MG",
-    "languages": "fr-MG,mg",
+    "Languages": "fr-MG,mg",
     "Name_EN": "Madagascar",
     "Name_FA": "ماداگاسکار",
     "Name_AR": "مدغشقر",
@@ -1575,7 +1575,7 @@
   {
     "Id": "2080185",
     "Code": "MH",
-    "languages": "mh,en-MH",
+    "Languages": "mh,en-MH",
     "Name_EN": "Marshall Islands",
     "Name_FA": "جزایر مارشال",
     "Name_AR": "جزر مارشال",
@@ -1586,7 +1586,7 @@
   {
     "Id": "718075",
     "Code": "MK",
-    "languages": "mk,sq,tr,rmm,sr",
+    "Languages": "mk,sq,tr,rmm,sr",
     "Name_EN": "North Macedonia",
     "Name_FA": "مقدونیه",
     "Name_AR": "مقدونيا الشمالية",
@@ -1597,7 +1597,7 @@
   {
     "Id": "2453866",
     "Code": "ML",
-    "languages": "fr-ML,bm",
+    "Languages": "fr-ML,bm",
     "Name_EN": "Mali",
     "Name_FA": "مالی",
     "Name_AR": "مالي",
@@ -1608,7 +1608,7 @@
   {
     "Id": "1327865",
     "Code": "MM",
-    "languages": "my",
+    "Languages": "my",
     "Name_EN": "Myanmar",
     "Name_FA": "میانمار",
     "Name_AR": "ميانمار (بورما)",
@@ -1619,7 +1619,7 @@
   {
     "Id": "2029969",
     "Code": "MN",
-    "languages": "mn,ru",
+    "Languages": "mn,ru",
     "Name_EN": "Mongolia",
     "Name_FA": "مغولستان",
     "Name_AR": "منغوليا",
@@ -1630,7 +1630,7 @@
   {
     "Id": "1821275",
     "Code": "MO",
-    "languages": "zh,zh-MO,pt",
+    "Languages": "zh,zh-MO,pt",
     "Name_EN": "Macao",
     "Name_FA": "ماکايو",
     "Name_AR": "ماكاو",
@@ -1641,7 +1641,7 @@
   {
     "Id": "4041468",
     "Code": "MP",
-    "languages": "fil,tl,zh,ch-MP,en-MP",
+    "Languages": "fil,tl,zh,ch-MP,en-MP",
     "Name_EN": "Northern Mariana Islands",
     "Name_FA": "جزایر ماریانای شمالی",
     "Name_AR": "جزر ماريانا الشمالية",
@@ -1652,7 +1652,7 @@
   {
     "Id": "3570311",
     "Code": "MQ",
-    "languages": "fr-MQ",
+    "Languages": "fr-MQ",
     "Name_EN": "Martinique",
     "Name_FA": "مارتینیک",
     "Name_AR": "جزر المارتينيك",
@@ -1663,7 +1663,7 @@
   {
     "Id": "2378080",
     "Code": "MR",
-    "languages": "ar-MR,fuc,snk,fr,mey,wo",
+    "Languages": "ar-MR,fuc,snk,fr,mey,wo",
     "Name_EN": "Mauritania",
     "Name_FA": "موریتانی",
     "Name_AR": "موريتانيا",
@@ -1674,7 +1674,7 @@
   {
     "Id": "3578097",
     "Code": "MS",
-    "languages": "en-MS",
+    "Languages": "en-MS",
     "Name_EN": "Montserrat",
     "Name_FA": "مونت‌سرات",
     "Name_AR": "مونتسرات",
@@ -1685,7 +1685,7 @@
   {
     "Id": "2562770",
     "Code": "MT",
-    "languages": "mt,en-MT",
+    "Languages": "mt,en-MT",
     "Name_EN": "Malta",
     "Name_FA": "مالت",
     "Name_AR": "مالطة",
@@ -1696,7 +1696,7 @@
   {
     "Id": "934292",
     "Code": "MU",
-    "languages": "en-MU,bho,fr",
+    "Languages": "en-MU,bho,fr",
     "Name_EN": "Mauritius",
     "Name_FA": "موریتیوس",
     "Name_AR": "موريشوس",
@@ -1707,7 +1707,7 @@
   {
     "Id": "1282028",
     "Code": "MV",
-    "languages": "dv,en",
+    "Languages": "dv,en",
     "Name_EN": "Maldives",
     "Name_FA": "مالدیو",
     "Name_AR": "مالديف",
@@ -1718,7 +1718,7 @@
   {
     "Id": "927384",
     "Code": "MW",
-    "languages": "ny,yao,tum,swk",
+    "Languages": "ny,yao,tum,swk",
     "Name_EN": "Malawi",
     "Name_FA": "مالاوی",
     "Name_AR": "ملاوي",
@@ -1729,7 +1729,7 @@
   {
     "Id": "3996063",
     "Code": "MX",
-    "languages": "es-MX",
+    "Languages": "es-MX",
     "Name_EN": "Mexico",
     "Name_FA": "مکزیک",
     "Name_AR": "المكسيك",
@@ -1740,7 +1740,7 @@
   {
     "Id": "1733045",
     "Code": "MY",
-    "languages": "ms-MY,en,zh,ta,te,ml,pa,th",
+    "Languages": "ms-MY,en,zh,ta,te,ml,pa,th",
     "Name_EN": "Malaysia",
     "Name_FA": "مالزی",
     "Name_AR": "ماليزيا",
@@ -1751,7 +1751,7 @@
   {
     "Id": "1036973",
     "Code": "MZ",
-    "languages": "pt-MZ,vmw",
+    "Languages": "pt-MZ,vmw",
     "Name_EN": "Mozambique",
     "Name_FA": "موزامبیک",
     "Name_AR": "موزمبيق",
@@ -1762,7 +1762,7 @@
   {
     "Id": "3355338",
     "Code": "NA",
-    "languages": "en-NA,af,de,hz,naq",
+    "Languages": "en-NA,af,de,hz,naq",
     "Name_EN": "Namibia",
     "Name_FA": "نامیبیا",
     "Name_AR": "ناميبيا",
@@ -1773,7 +1773,7 @@
   {
     "Id": "2139685",
     "Code": "NC",
-    "languages": "fr-NC",
+    "Languages": "fr-NC",
     "Name_EN": "New Caledonia",
     "Name_FA": "کالدونیای جدید",
     "Name_AR": "كاليدونيا الجديدة",
@@ -1784,7 +1784,7 @@
   {
     "Id": "2440476",
     "Code": "NE",
-    "languages": "fr-NE,ha,kr,dje",
+    "Languages": "fr-NE,ha,kr,dje",
     "Name_EN": "Niger",
     "Name_FA": "نیجر",
     "Name_AR": "النيجر",
@@ -1795,7 +1795,7 @@
   {
     "Id": "2155115",
     "Code": "NF",
-    "languages": "en-NF",
+    "Languages": "en-NF",
     "Name_EN": "Norfolk Island",
     "Name_FA": "جزیره نورفولک",
     "Name_AR": "جزيرة نورفولك",
@@ -1806,7 +1806,7 @@
   {
     "Id": "2328926",
     "Code": "NG",
-    "languages": "en-NG,ha,yo,ig,ff",
+    "Languages": "en-NG,ha,yo,ig,ff",
     "Name_EN": "Nigeria",
     "Name_FA": "نیجریه",
     "Name_AR": "نيجيريا",
@@ -1817,7 +1817,7 @@
   {
     "Id": "3617476",
     "Code": "NI",
-    "languages": "es-NI,en",
+    "Languages": "es-NI,en",
     "Name_EN": "Nicaragua",
     "Name_FA": "نیکاراگويه",
     "Name_AR": "نيكاراغوا",
@@ -1828,7 +1828,7 @@
   {
     "Id": "2750405",
     "Code": "NL",
-    "languages": "nl-NL,fy-NL",
+    "Languages": "nl-NL,fy-NL",
     "Name_EN": "The Netherlands",
     "Name_FA": "هلند",
     "Name_AR": "هولندا",
@@ -1839,7 +1839,7 @@
   {
     "Id": "3144096",
     "Code": "NO",
-    "languages": "no,nb,nn,se,fi",
+    "Languages": "no,nb,nn,se,fi",
     "Name_EN": "Norway",
     "Name_FA": "نروژ",
     "Name_AR": "النرويج",
@@ -1850,7 +1850,7 @@
   {
     "Id": "1282988",
     "Code": "NP",
-    "languages": "ne,en",
+    "Languages": "ne,en",
     "Name_EN": "Nepal",
     "Name_FA": "نپال",
     "Name_AR": "النيبال",
@@ -1861,7 +1861,7 @@
   {
     "Id": "2110425",
     "Code": "NR",
-    "languages": "na,en-NR",
+    "Languages": "na,en-NR",
     "Name_EN": "Nauru",
     "Name_FA": "نايورو",
     "Name_AR": "ناورو",
@@ -1872,7 +1872,7 @@
   {
     "Id": "4036232",
     "Code": "NU",
-    "languages": "niu,en-NU",
+    "Languages": "niu,en-NU",
     "Name_EN": "Niue",
     "Name_FA": "نیووی",
     "Name_AR": "نيوي",
@@ -1883,7 +1883,7 @@
   {
     "Id": "2186224",
     "Code": "NZ",
-    "languages": "en-NZ,mi",
+    "Languages": "en-NZ,mi",
     "Name_EN": "New Zealand",
     "Name_FA": "زلاند نو",
     "Name_AR": "زيلندا الجديدة",
@@ -1894,7 +1894,7 @@
   {
     "Id": "286963",
     "Code": "OM",
-    "languages": "ar-OM,en,bal,ur",
+    "Languages": "ar-OM,en,bal,ur",
     "Name_EN": "Oman",
     "Name_FA": "عمان",
     "Name_AR": "عمان",
@@ -1905,7 +1905,7 @@
   {
     "Id": "3703430",
     "Code": "PA",
-    "languages": "es-PA,en",
+    "Languages": "es-PA,en",
     "Name_EN": "Panama",
     "Name_FA": "پاناما",
     "Name_AR": "بنما",
@@ -1916,7 +1916,7 @@
   {
     "Id": "3932488",
     "Code": "PE",
-    "languages": "es-PE,qu,ay",
+    "Languages": "es-PE,qu,ay",
     "Name_EN": "Peru",
     "Name_FA": "پرو",
     "Name_AR": "بيرو",
@@ -1927,7 +1927,7 @@
   {
     "Id": "4030656",
     "Code": "PF",
-    "languages": "fr-PF,ty",
+    "Languages": "fr-PF,ty",
     "Name_EN": "French Polynesia",
     "Name_FA": "پلی‌نزی فرانسه",
     "Name_AR": "بولينسيا الفرنسية",
@@ -1938,7 +1938,7 @@
   {
     "Id": "2088628",
     "Code": "PG",
-    "languages": "en-PG,ho,meu,tpi",
+    "Languages": "en-PG,ho,meu,tpi",
     "Name_EN": "Papua New Guinea",
     "Name_FA": "پاپوا گینه نو",
     "Name_AR": "بابوا غينيا الجديدة",
@@ -1949,7 +1949,7 @@
   {
     "Id": "1694008",
     "Code": "PH",
-    "languages": "tl,en-PH,fil,ceb,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",
+    "Languages": "tl,en-PH,fil,ceb,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",
     "Name_EN": "Philippines",
     "Name_FA": "فیلیپین",
     "Name_AR": "الفيلبين",
@@ -1960,7 +1960,7 @@
   {
     "Id": "1168579",
     "Code": "PK",
-    "languages": "ur-PK,en-PK,pa,sd,ps,brh",
+    "Languages": "ur-PK,en-PK,pa,sd,ps,brh",
     "Name_EN": "Pakistan",
     "Name_FA": "پاکستان",
     "Name_AR": "الباكستان",
@@ -1971,7 +1971,7 @@
   {
     "Id": "798544",
     "Code": "PL",
-    "languages": "pl",
+    "Languages": "pl",
     "Name_EN": "Poland",
     "Name_FA": "لهستان",
     "Name_AR": "بولندا",
@@ -1982,7 +1982,7 @@
   {
     "Id": "3424932",
     "Code": "PM",
-    "languages": "fr-PM",
+    "Languages": "fr-PM",
     "Name_EN": "Saint Pierre and Miquelon",
     "Name_FA": "سن پیر و میکلن",
     "Name_AR": "سان بيير ومكويلون",
@@ -1993,7 +1993,7 @@
   {
     "Id": "4030699",
     "Code": "PN",
-    "languages": "en-PN",
+    "Languages": "en-PN",
     "Name_EN": "Pitcairn",
     "Name_FA": "جزایر پیت‌کرن",
     "Name_AR": "جزر بيتكيرن",
@@ -2004,7 +2004,7 @@
   {
     "Id": "4566966",
     "Code": "PR",
-    "languages": "en-PR,es-PR",
+    "Languages": "en-PR,es-PR",
     "Name_EN": "Puerto Rico",
     "Name_FA": "پورتوریکو",
     "Name_AR": "بورتوريكو",
@@ -2015,7 +2015,7 @@
   {
     "Id": "6254930",
     "Code": "PS",
-    "languages": "ar-PS",
+    "Languages": "ar-PS",
     "Name_EN": "Palestinian Territory",
     "Name_FA": "فلسطین",
     "Name_AR": "فلسطين",
@@ -2026,7 +2026,7 @@
   {
     "Id": "2264397",
     "Code": "PT",
-    "languages": "pt-PT,mwl",
+    "Languages": "pt-PT,mwl",
     "Name_EN": "Portugal",
     "Name_FA": "پرتغال",
     "Name_AR": "البرتغال",
@@ -2037,7 +2037,7 @@
   {
     "Id": "1559582",
     "Code": "PW",
-    "languages": "pau,sov,en-PW,tox,ja,fil,zh",
+    "Languages": "pau,sov,en-PW,tox,ja,fil,zh",
     "Name_EN": "Palau",
     "Name_FA": "پالايو",
     "Name_AR": "بالاو",
@@ -2048,7 +2048,7 @@
   {
     "Id": "3437598",
     "Code": "PY",
-    "languages": "es-PY,gn",
+    "Languages": "es-PY,gn",
     "Name_EN": "Paraguay",
     "Name_FA": "پاراگويه",
     "Name_AR": "باراغواي",
@@ -2059,7 +2059,7 @@
   {
     "Id": "289688",
     "Code": "QA",
-    "languages": "ar-QA,es",
+    "Languages": "ar-QA,es",
     "Name_EN": "Qatar",
     "Name_FA": "قطر",
     "Name_AR": "قطر",
@@ -2070,7 +2070,7 @@
   {
     "Id": "935317",
     "Code": "RE",
-    "languages": "fr-RE",
+    "Languages": "fr-RE",
     "Name_EN": "Reunion",
     "Name_FA": "ريونیون",
     "Name_AR": "روينيون",
@@ -2081,7 +2081,7 @@
   {
     "Id": "798549",
     "Code": "RO",
-    "languages": "ro,hu,rom",
+    "Languages": "ro,hu,rom",
     "Name_EN": "Romania",
     "Name_FA": "رومانی",
     "Name_AR": "رومانيا",
@@ -2092,7 +2092,7 @@
   {
     "Id": "6290252",
     "Code": "RS",
-    "languages": "sr,hu,bs,rom",
+    "Languages": "sr,hu,bs,rom",
     "Name_EN": "Serbia",
     "Name_FA": "صربستان",
     "Name_AR": "جمهورية صربيا",
@@ -2103,7 +2103,7 @@
   {
     "Id": "2017370",
     "Code": "RU",
-    "languages": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,kbd,krc,av,sah,nog",
+    "Languages": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,kbd,krc,av,sah,nog",
     "Name_EN": "Russia",
     "Name_FA": "روسیه",
     "Name_AR": "روسيا",
@@ -2114,7 +2114,7 @@
   {
     "Id": "49518",
     "Code": "RW",
-    "languages": "rw,en-RW,fr-RW,sw",
+    "Languages": "rw,en-RW,fr-RW,sw",
     "Name_EN": "Rwanda",
     "Name_FA": "رواندا",
     "Name_AR": "رواندا",
@@ -2125,7 +2125,7 @@
   {
     "Id": "102358",
     "Code": "SA",
-    "languages": "ar-SA",
+    "Languages": "ar-SA",
     "Name_EN": "Saudi Arabia",
     "Name_FA": "عربستان",
     "Name_AR": "العربية السعودية",
@@ -2136,7 +2136,7 @@
   {
     "Id": "2103350",
     "Code": "SB",
-    "languages": "en-SB,tpi",
+    "Languages": "en-SB,tpi",
     "Name_EN": "Solomon Islands",
     "Name_FA": "جزایر سلیمان",
     "Name_AR": "جزر سليمان",
@@ -2147,7 +2147,7 @@
   {
     "Id": "241170",
     "Code": "SC",
-    "languages": "en-SC,fr-SC",
+    "Languages": "en-SC,fr-SC",
     "Name_EN": "Seychelles",
     "Name_FA": "سیشل",
     "Name_AR": "سيشل",
@@ -2158,7 +2158,7 @@
   {
     "Id": "366755",
     "Code": "SD",
-    "languages": "ar-SD,en,fia",
+    "Languages": "ar-SD,en,fia",
     "Name_EN": "Sudan",
     "Name_FA": "سودان",
     "Name_AR": "السودان",
@@ -2169,7 +2169,7 @@
   {
     "Id": "7909807",
     "Code": "SS",
-    "languages": "en",
+    "Languages": "en",
     "Name_EN": "South Sudan",
     "Name_FA": "سودان جنوبی",
     "Name_AR": "جنوب السودان",
@@ -2180,7 +2180,7 @@
   {
     "Id": "2661886",
     "Code": "SE",
-    "languages": "sv-SE,se,sma,fi-SE",
+    "Languages": "sv-SE,se,sma,fi-SE",
     "Name_EN": "Sweden",
     "Name_FA": "سويد",
     "Name_AR": "السويد",
@@ -2191,7 +2191,7 @@
   {
     "Id": "1880251",
     "Code": "SG",
-    "languages": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
+    "Languages": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
     "Name_EN": "Singapore",
     "Name_FA": "سنگاپور",
     "Name_AR": "سنغافورة",
@@ -2202,7 +2202,7 @@
   {
     "Id": "3370751",
     "Code": "SH",
-    "languages": "en-SH",
+    "Languages": "en-SH",
     "Name_EN": "Saint Helena",
     "Name_FA": "سنت هلن",
     "Name_AR": "سانت هيلينا",
@@ -2213,7 +2213,7 @@
   {
     "Id": "3190538",
     "Code": "SI",
-    "languages": "sl,sh",
+    "Languages": "sl,sh",
     "Name_EN": "Slovenia",
     "Name_FA": "اسلوونی",
     "Name_AR": "سلوفينيا",
@@ -2224,7 +2224,7 @@
   {
     "Id": "607072",
     "Code": "SJ",
-    "languages": "no,ru",
+    "Languages": "no,ru",
     "Name_EN": "Svalbard and Jan Mayen",
     "Name_FA": "سوالبارد و یان ماین",
     "Name_AR": "سفالبارد وجان ماين",
@@ -2235,7 +2235,7 @@
   {
     "Id": "3057568",
     "Code": "SK",
-    "languages": "sk,hu",
+    "Languages": "sk,hu",
     "Name_EN": "Slovakia",
     "Name_FA": "اسلواکی",
     "Name_AR": "سلوفاكيا",
@@ -2246,7 +2246,7 @@
   {
     "Id": "2403846",
     "Code": "SL",
-    "languages": "en-SL,men,tem",
+    "Languages": "en-SL,men,tem",
     "Name_EN": "Sierra Leone",
     "Name_FA": "سیراليون",
     "Name_AR": "سيراليون",
@@ -2257,7 +2257,7 @@
   {
     "Id": "3168068",
     "Code": "SM",
-    "languages": "it-SM",
+    "Languages": "it-SM",
     "Name_EN": "San Marino",
     "Name_FA": "سان‌مارینو",
     "Name_AR": "سان مارينو",
@@ -2268,7 +2268,7 @@
   {
     "Id": "2245662",
     "Code": "SN",
-    "languages": "fr-SN,wo,fuc,mnk",
+    "Languages": "fr-SN,wo,fuc,mnk",
     "Name_EN": "Senegal",
     "Name_FA": "سنگال",
     "Name_AR": "السنغال",
@@ -2279,7 +2279,7 @@
   {
     "Id": "51537",
     "Code": "SO",
-    "languages": "so-SO,ar-SO,it,en-SO",
+    "Languages": "so-SO,ar-SO,it,en-SO",
     "Name_EN": "Somalia",
     "Name_FA": "سومالی",
     "Name_AR": "الصومال",
@@ -2290,7 +2290,7 @@
   {
     "Id": "3382998",
     "Code": "SR",
-    "languages": "nl-SR,en,srn,hns,jv",
+    "Languages": "nl-SR,en,srn,hns,jv",
     "Name_EN": "Suriname",
     "Name_FA": "سورینام",
     "Name_AR": "سورينام",
@@ -2301,7 +2301,7 @@
   {
     "Id": "2410758",
     "Code": "ST",
-    "languages": "pt-ST",
+    "Languages": "pt-ST",
     "Name_EN": "Sao Tome and Principe",
     "Name_FA": "سايوتومه و پرینسیپه",
     "Name_AR": "سان تومي وبرينسيبي",
@@ -2312,7 +2312,7 @@
   {
     "Id": "3585968",
     "Code": "SV",
-    "languages": "es-SV",
+    "Languages": "es-SV",
     "Name_EN": "El Salvador",
     "Name_FA": "السالوادور",
     "Name_AR": "السلفادور",
@@ -2323,7 +2323,7 @@
   {
     "Id": "7609695",
     "Code": "SX",
-    "languages": "nl,en",
+    "Languages": "nl,en",
     "Name_EN": "Sint Maarten",
     "Name_FA": "سنت مارتن",
     "Name_AR": "سنت مارتن",
@@ -2334,7 +2334,7 @@
   {
     "Id": "163843",
     "Code": "SY",
-    "languages": "ar-SY,ku,hy,arc,fr,en",
+    "Languages": "ar-SY,ku,hy,arc,fr,en",
     "Name_EN": "Syria",
     "Name_FA": "سوریه",
     "Name_AR": "سورية",
@@ -2345,7 +2345,7 @@
   {
     "Id": "934841",
     "Code": "SZ",
-    "languages": "en-SZ,ss-SZ",
+    "Languages": "en-SZ,ss-SZ",
     "Name_EN": "Eswatini",
     "Name_FA": "سوازیلند",
     "Name_AR": "اسواتيني",
@@ -2356,7 +2356,7 @@
   {
     "Id": "3576916",
     "Code": "TC",
-    "languages": "en-TC",
+    "Languages": "en-TC",
     "Name_EN": "Turks and Caicos Islands",
     "Name_FA": "جزایر تورکس و کایکوس",
     "Name_AR": "جزر توركس وكايكوس",
@@ -2367,7 +2367,7 @@
   {
     "Id": "2434508",
     "Code": "TD",
-    "languages": "fr-TD,ar-TD,sre",
+    "Languages": "fr-TD,ar-TD,sre",
     "Name_EN": "Chad",
     "Name_FA": "چاد",
     "Name_AR": "تشاد",
@@ -2378,7 +2378,7 @@
   {
     "Id": "1546748",
     "Code": "TF",
-    "languages": "fr",
+    "Languages": "fr",
     "Name_EN": "French Southern Territories",
     "Name_FA": "سرزمین‌های جنوب فرانسه",
     "Name_AR": "الاقاليم الجنوبية الفرنسية",
@@ -2389,7 +2389,7 @@
   {
     "Id": "2363686",
     "Code": "TG",
-    "languages": "fr-TG,ee,hna,kbp,dag,ha",
+    "Languages": "fr-TG,ee,hna,kbp,dag,ha",
     "Name_EN": "Togo",
     "Name_FA": "توگو",
     "Name_AR": "توغو",
@@ -2400,7 +2400,7 @@
   {
     "Id": "1605651",
     "Code": "TH",
-    "languages": "th,en",
+    "Languages": "th,en",
     "Name_EN": "Thailand",
     "Name_FA": "تایلند",
     "Name_AR": "تايلاند",
@@ -2411,7 +2411,7 @@
   {
     "Id": "1220409",
     "Code": "TJ",
-    "languages": "tg,ru",
+    "Languages": "tg,ru",
     "Name_EN": "Tajikistan",
     "Name_FA": "تاجیکستان",
     "Name_AR": "تاجيكستان",
@@ -2422,7 +2422,7 @@
   {
     "Id": "4031074",
     "Code": "TK",
-    "languages": "tkl,en-TK",
+    "Languages": "tkl,en-TK",
     "Name_EN": "Tokelau",
     "Name_FA": "توکلايو",
     "Name_AR": "توكيلو",
@@ -2433,7 +2433,7 @@
   {
     "Id": "1966436",
     "Code": "TL",
-    "languages": "tet,pt-TL,id,en",
+    "Languages": "tet,pt-TL,id,en",
     "Name_EN": "Timor Leste",
     "Name_FA": "تیمور شرقی",
     "Name_AR": "تيمور الشرقية",
@@ -2444,7 +2444,7 @@
   {
     "Id": "1218197",
     "Code": "TM",
-    "languages": "tk,ru,uz",
+    "Languages": "tk,ru,uz",
     "Name_EN": "Turkmenistan",
     "Name_FA": "ترکمنستان",
     "Name_AR": "تركمانستان",
@@ -2455,7 +2455,7 @@
   {
     "Id": "2464461",
     "Code": "TN",
-    "languages": "ar-TN,fr",
+    "Languages": "ar-TN,fr",
     "Name_EN": "Tunisia",
     "Name_FA": "تونس",
     "Name_AR": "تونس",
@@ -2466,7 +2466,7 @@
   {
     "Id": "4032283",
     "Code": "TO",
-    "languages": "to,en-TO",
+    "Languages": "to,en-TO",
     "Name_EN": "Tonga",
     "Name_FA": "تونگا",
     "Name_AR": "تونغا",
@@ -2477,7 +2477,7 @@
   {
     "Id": "298795",
     "Code": "TR",
-    "languages": "tr-TR,ku,diq,az,av",
+    "Languages": "tr-TR,ku,diq,az,av",
     "Name_EN": "Turkey",
     "Name_FA": "ترکیه",
     "Name_AR": "تركيا",
@@ -2488,7 +2488,7 @@
   {
     "Id": "3573591",
     "Code": "TT",
-    "languages": "en-TT,hns,fr,es,zh",
+    "Languages": "en-TT,hns,fr,es,zh",
     "Name_EN": "Trinidad and Tobago",
     "Name_FA": "ترینیداد و توباگو",
     "Name_AR": "ترينيداد وتوباغو",
@@ -2499,7 +2499,7 @@
   {
     "Id": "2110297",
     "Code": "TV",
-    "languages": "tvl,en,sm,gil",
+    "Languages": "tvl,en,sm,gil",
     "Name_EN": "Tuvalu",
     "Name_FA": "تووالو",
     "Name_AR": "توفالو",
@@ -2510,7 +2510,7 @@
   {
     "Id": "1668284",
     "Code": "TW",
-    "languages": "zh-TW,zh,nan,hak",
+    "Languages": "zh-TW,zh,nan,hak",
     "Name_EN": "Taiwan",
     "Name_FA": "تایوان",
     "Name_AR": "تايوان",
@@ -2521,7 +2521,7 @@
   {
     "Id": "149590",
     "Code": "TZ",
-    "languages": "sw-TZ,en,ar",
+    "Languages": "sw-TZ,en,ar",
     "Name_EN": "Tanzania",
     "Name_FA": "تانزانیا",
     "Name_AR": "تانزانيا",
@@ -2532,7 +2532,7 @@
   {
     "Id": "690791",
     "Code": "UA",
-    "languages": "uk,ru-UA,rom,pl,hu",
+    "Languages": "uk,ru-UA,rom,pl,hu",
     "Name_EN": "Ukraine",
     "Name_FA": "اوکراین",
     "Name_AR": "اوكرانيا",
@@ -2543,7 +2543,7 @@
   {
     "Id": "226074",
     "Code": "UG",
-    "languages": "en-UG,lg,sw,ar",
+    "Languages": "en-UG,lg,sw,ar",
     "Name_EN": "Uganda",
     "Name_FA": "اوگاندا",
     "Name_AR": "اوغندا",
@@ -2554,7 +2554,7 @@
   {
     "Id": "5854968",
     "Code": "UM",
-    "languages": "en-UM",
+    "Languages": "en-UM",
     "Name_EN": "United States Minor Outlying Islands",
     "Name_FA": "جزایر دورافتاده ایالات متحده",
     "Name_AR": "جزر الولايات المتحدة النايية",
@@ -2565,7 +2565,7 @@
   {
     "Id": "6252001",
     "Code": "US",
-    "languages": "en-US,es-US,haw,fr",
+    "Languages": "en-US,es-US,haw,fr",
     "Name_EN": "United States",
     "Name_FA": "ایالات متحده امریکا",
     "Name_AR": "الاولايات المتحدة الامريكية",
@@ -2576,7 +2576,7 @@
   {
     "Id": "3439705",
     "Code": "UY",
-    "languages": "es-UY",
+    "Languages": "es-UY",
     "Name_EN": "Uruguay",
     "Name_FA": "اوروگويه",
     "Name_AR": "اروغواي",
@@ -2587,7 +2587,7 @@
   {
     "Id": "1512440",
     "Code": "UZ",
-    "languages": "uz,ru,tg",
+    "Languages": "uz,ru,tg",
     "Name_EN": "Uzbekistan",
     "Name_FA": "ازبکستان",
     "Name_AR": "ازبكستان",
@@ -2598,7 +2598,7 @@
   {
     "Id": "3164670",
     "Code": "VA",
-    "languages": "la,it,fr",
+    "Languages": "la,it,fr",
     "Name_EN": "Vatican",
     "Name_FA": "واتیکان",
     "Name_AR": "الفاتيكان",
@@ -2609,7 +2609,7 @@
   {
     "Id": "3577815",
     "Code": "VC",
-    "languages": "en-VC,fr",
+    "Languages": "en-VC,fr",
     "Name_EN": "Saint Vincent and the Grenadines",
     "Name_FA": "سنت وینسنت و گرنادین",
     "Name_AR": "سانت فنسنت وجزر غرينادين",
@@ -2620,7 +2620,7 @@
   {
     "Id": "3625428",
     "Code": "VE",
-    "languages": "es-VE",
+    "Languages": "es-VE",
     "Name_EN": "Venezuela",
     "Name_FA": "ونزويلا",
     "Name_AR": "فنزويلا",
@@ -2631,7 +2631,7 @@
   {
     "Id": "3577718",
     "Code": "VG",
-    "languages": "en-VG",
+    "Languages": "en-VG",
     "Name_EN": "British Virgin Islands",
     "Name_FA": "جزایر ویرجین بریتانیا",
     "Name_AR": "جزر فيرجن البريطانية",
@@ -2642,7 +2642,7 @@
   {
     "Id": "4796775",
     "Code": "VI",
-    "languages": "en-VI",
+    "Languages": "en-VI",
     "Name_EN": "U.S. Virgin Islands",
     "Name_FA": "جزایر ویرجین ایالات متحده",
     "Name_AR": "جزر فيرجن التابعة للولايات المتحدة",
@@ -2653,7 +2653,7 @@
   {
     "Id": "1562822",
     "Code": "VN",
-    "languages": "vi,en,fr,zh,km",
+    "Languages": "vi,en,fr,zh,km",
     "Name_EN": "Vietnam",
     "Name_FA": "ویتنام",
     "Name_AR": "فيتنام",
@@ -2664,7 +2664,7 @@
   {
     "Id": "2134431",
     "Code": "VU",
-    "languages": "bi,en-VU,fr-VU",
+    "Languages": "bi,en-VU,fr-VU",
     "Name_EN": "Vanuatu",
     "Name_FA": "وانواتو",
     "Name_AR": "فانواتو",
@@ -2675,7 +2675,7 @@
   {
     "Id": "4034749",
     "Code": "WF",
-    "languages": "wls,fud,fr-WF",
+    "Languages": "wls,fud,fr-WF",
     "Name_EN": "Wallis and Futuna",
     "Name_FA": "والیس و فوتونا",
     "Name_AR": "والس وفوتونا",
@@ -2686,7 +2686,7 @@
   {
     "Id": "4034894",
     "Code": "WS",
-    "languages": "sm,en-WS",
+    "Languages": "sm,en-WS",
     "Name_EN": "Samoa",
     "Name_FA": "ساموا",
     "Name_AR": "ساموا",
@@ -2697,7 +2697,7 @@
   {
     "Id": "69543",
     "Code": "YE",
-    "languages": "ar-YE",
+    "Languages": "ar-YE",
     "Name_EN": "Yemen",
     "Name_FA": "یمن",
     "Name_AR": "اليمن",
@@ -2708,7 +2708,7 @@
   {
     "Id": "1024031",
     "Code": "YT",
-    "languages": "fr-YT",
+    "Languages": "fr-YT",
     "Name_EN": "Mayotte",
     "Name_FA": "مایوت",
     "Name_AR": "مايوت",
@@ -2719,7 +2719,7 @@
   {
     "Id": "953987",
     "Code": "ZA",
-    "languages": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
+    "Languages": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
     "Name_EN": "South Africa",
     "Name_FA": "افریقای جنوبی",
     "Name_AR": "جنوب افريقيا",
@@ -2730,7 +2730,7 @@
   {
     "Id": "895949",
     "Code": "ZM",
-    "languages": "en-ZM,bem,loz,lun,lue,ny,toi",
+    "Languages": "en-ZM,bem,loz,lun,lue,ny,toi",
     "Name_EN": "Zambia",
     "Name_FA": "زامبیا",
     "Name_AR": "زامبيا",
@@ -2741,7 +2741,7 @@
   {
     "Id": "878675",
     "Code": "ZW",
-    "languages": "en-ZW,sn,nr,nd",
+    "Languages": "en-ZW,sn,nr,nd",
     "Name_EN": "Zimbabwe",
     "Name_FA": "زیمبابوه",
     "Name_AR": "زيمبابوي",
@@ -2752,7 +2752,7 @@
   {
     "Id": "8505033",
     "Code": "CS",
-    "languages": "cu,hu,sq,sr",
+    "Languages": "cu,hu,sq,sr",
     "Name_EN": "Serbia and Montenegro",
     "Name_FA": "",
     "Name_AR": "صربيا والجبل الاسود",
@@ -2763,7 +2763,7 @@
   {
     "Id": "8505032",
     "Code": "AN",
-    "languages": "nl-AN,en,es",
+    "Languages": "nl-AN,en,es",
     "Name_EN": "Netherlands Antilles",
     "Name_FA": "",
     "Name_AR": "الانتيل الهولندية",
