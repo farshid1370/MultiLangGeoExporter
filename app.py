@@ -59,7 +59,8 @@ with open("countryInfo.txt", encoding='utf-8') as f:
         phone_code = parts[12]
         languages = parts[15]
         geonameid = parts[16]
-
+        if not phone_code.startswith('+'):
+            phone_code = f"+{phone_code}"
         country_id_map[iso] = geonameid
         countries[iso] = {
             "Id": str(geonameid),

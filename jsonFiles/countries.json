@@ -6,7 +6,7 @@
     "Name_EN": "Andorra",
     "Name_FA": "اندورا",
     "Name_AR": "اندورا",
-    "PhoneCode": "376",
+    "PhoneCode": "+376",
     "Latitude": 42.535,
     "Longitude": 1.55903
   },
@@ -17,7 +17,7 @@
     "Name_EN": "United Arab Emirates",
     "Name_FA": "امارات متحده عربی",
     "Name_AR": "الامارات العربية المتحدة",
-    "PhoneCode": "971",
+    "PhoneCode": "+971",
     "Latitude": 25.05543,
     "Longitude": 55.37373
   },
@@ -28,7 +28,7 @@
     "Name_EN": "Afghanistan",
     "Name_FA": "افغانستان",
     "Name_AR": "افغانستان",
-    "PhoneCode": "93",
+    "PhoneCode": "+93",
     "Latitude": 34.61548,
     "Longitude": 67.53237
   },
@@ -61,7 +61,7 @@
     "Name_EN": "Albania",
     "Name_FA": "البانی",
     "Name_AR": "البانيا",
-    "PhoneCode": "355",
+    "PhoneCode": "+355",
     "Latitude": 41.06292,
     "Longitude": 20.00468
   },
@@ -72,7 +72,7 @@
     "Name_EN": "Armenia",
     "Name_FA": "ارمنستان",
     "Name_AR": "ارمينيا",
-    "PhoneCode": "374",
+    "PhoneCode": "+374",
     "Latitude": 40.3524,
     "Longitude": 44.59562
   },
@@ -83,7 +83,7 @@
     "Name_EN": "Angola",
     "Name_FA": "انگولا",
     "Name_AR": "انغولا",
-    "PhoneCode": "244",
+    "PhoneCode": "+244",
     "Latitude": -11.07257,
     "Longitude": 15.94345
   },
@@ -94,7 +94,7 @@
     "Name_EN": "Antarctica",
     "Name_FA": "جنوبگان",
     "Name_AR": "القطب الجنوبي",
-    "PhoneCode": "",
+    "PhoneCode": "+",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -105,7 +105,7 @@
     "Name_EN": "Argentina",
     "Name_FA": "ارژانتین",
     "Name_AR": "الارجنتين",
-    "PhoneCode": "54",
+    "PhoneCode": "+54",
     "Latitude": -32.15954,
     "Longitude": -62.48958
   },
@@ -127,7 +127,7 @@
     "Name_EN": "Austria",
     "Name_FA": "اتریش",
     "Name_AR": "النمسا",
-    "PhoneCode": "43",
+    "PhoneCode": "+43",
     "Latitude": 47.63552,
     "Longitude": 14.43169
   },
@@ -138,7 +138,7 @@
     "Name_EN": "Australia",
     "Name_FA": "استرالیا",
     "Name_AR": "استراليا",
-    "PhoneCode": "61",
+    "PhoneCode": "+61",
     "Latitude": -32.12214,
     "Longitude": 144.06238
   },
@@ -149,7 +149,7 @@
     "Name_EN": "Aruba",
     "Name_FA": "اروبا",
     "Name_AR": "اروبا",
-    "PhoneCode": "297",
+    "PhoneCode": "+297",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -171,7 +171,7 @@
     "Name_EN": "Azerbaijan",
     "Name_FA": "جمهوری اذربایجان",
     "Name_AR": "اذربيجان",
-    "PhoneCode": "994",
+    "PhoneCode": "+994",
     "Latitude": 40.29774,
     "Longitude": 47.741
   },
@@ -182,7 +182,7 @@
     "Name_EN": "Bosnia and Herzegovina",
     "Name_FA": "بوسنی و هرزگوین",
     "Name_AR": "البوسنة والهرسك",
-    "PhoneCode": "387",
+    "PhoneCode": "+387",
     "Latitude": 44.37367,
     "Longitude": 17.80226
   },
@@ -204,7 +204,7 @@
     "Name_EN": "Bangladesh",
     "Name_FA": "بنگلادش",
     "Name_AR": "بنغلاديش",
-    "PhoneCode": "880",
+    "PhoneCode": "+880",
     "Latitude": 23.76342,
     "Longitude": 90.22242
   },
@@ -215,7 +215,7 @@
     "Name_EN": "Belgium",
     "Name_FA": "بلژیک",
     "Name_AR": "بلجيكا",
-    "PhoneCode": "32",
+    "PhoneCode": "+32",
     "Latitude": 50.68457,
     "Longitude": 4.55115
   },
@@ -226,7 +226,7 @@
     "Name_EN": "Burkina Faso",
     "Name_FA": "بورکینافاسو",
     "Name_AR": "بوركينا فاسو",
-    "PhoneCode": "226",
+    "PhoneCode": "+226",
     "Latitude": 12.34416,
     "Longitude": -1.62604
   },
@@ -237,7 +237,7 @@
     "Name_EN": "Bulgaria",
     "Name_FA": "بلغارستان",
     "Name_AR": "بلغاريا",
-    "PhoneCode": "359",
+    "PhoneCode": "+359",
     "Latitude": 42.80262,
     "Longitude": 25.19081
   },
@@ -248,7 +248,7 @@
     "Name_EN": "Bahrain",
     "Name_FA": "بحرین",
     "Name_AR": "البحرين",
-    "PhoneCode": "973",
+    "PhoneCode": "+973",
     "Latitude": 26.18187,
     "Longitude": 50.56845
   },
@@ -259,7 +259,7 @@
     "Name_EN": "Burundi",
     "Name_FA": "بوروندی",
     "Name_AR": "بوروندي",
-    "PhoneCode": "257",
+    "PhoneCode": "+257",
     "Latitude": -3.35301,
     "Longitude": 29.74574
   },
@@ -270,7 +270,7 @@
     "Name_EN": "Benin",
     "Name_FA": "بنین",
     "Name_AR": "بنين",
-    "PhoneCode": "229",
+    "PhoneCode": "+229",
     "Latitude": 8.09402,
     "Longitude": 2.22283
   },
@@ -281,7 +281,7 @@
     "Name_EN": "Saint Barthelemy",
     "Name_FA": "سن بارتلمی",
     "Name_AR": "سان بارتليمي",
-    "PhoneCode": "590",
+    "PhoneCode": "+590",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -303,7 +303,7 @@
     "Name_EN": "Brunei",
     "Name_FA": "برونيی",
     "Name_AR": "بروناي",
-    "PhoneCode": "673",
+    "PhoneCode": "+673",
     "Latitude": 4.84361,
     "Longitude": 114.78496
   },
@@ -314,7 +314,7 @@
     "Name_EN": "Bolivia",
     "Name_FA": "بولیوی",
     "Name_AR": "بوليفيا",
-    "PhoneCode": "591",
+    "PhoneCode": "+591",
     "Latitude": -17.92981,
     "Longitude": -65.31969
   },
@@ -325,7 +325,7 @@
     "Name_EN": "Bonaire, Saint Eustatius and Saba ",
     "Name_FA": "جزایر کارايیب هلند",
     "Name_AR": "بونير وسينت اوستاتيوس وسابا",
-    "PhoneCode": "599",
+    "PhoneCode": "+599",
     "Latitude": 14.56205,
     "Longitude": -65.98436
   },
@@ -336,7 +336,7 @@
     "Name_EN": "Brazil",
     "Name_FA": "برزیل",
     "Name_AR": "البرازيل",
-    "PhoneCode": "55",
+    "PhoneCode": "+55",
     "Latitude": -16.25851,
     "Longitude": -46.386
   },
@@ -358,7 +358,7 @@
     "Name_EN": "Bhutan",
     "Name_FA": "بوتان",
     "Name_AR": "بوتان",
-    "PhoneCode": "975",
+    "PhoneCode": "+975",
     "Latitude": 27.2445,
     "Longitude": 90.38546
   },
@@ -369,7 +369,7 @@
     "Name_EN": "Bouvet Island",
     "Name_FA": "جزیره بووت",
     "Name_AR": "جزيرة بوفيه",
-    "PhoneCode": "",
+    "PhoneCode": "+",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -380,7 +380,7 @@
     "Name_EN": "Botswana",
     "Name_FA": "بوتسوانا",
     "Name_AR": "بوتسوانا",
-    "PhoneCode": "267",
+    "PhoneCode": "+267",
     "Latitude": -22.89468,
     "Longitude": 25.81042
   },
@@ -391,7 +391,7 @@
     "Name_EN": "Belarus",
     "Name_FA": "بیلوروسی",
     "Name_AR": "بيلاروس",
-    "PhoneCode": "375",
+    "PhoneCode": "+375",
     "Latitude": 53.63527,
     "Longitude": 27.8415
   },
@@ -402,7 +402,7 @@
     "Name_EN": "Belize",
     "Name_FA": "بلیز",
     "Name_AR": "بليز",
-    "PhoneCode": "501",
+    "PhoneCode": "+501",
     "Latitude": 17.35998,
     "Longitude": -88.64357
   },
@@ -413,7 +413,7 @@
     "Name_EN": "Canada",
     "Name_FA": "کانادا",
     "Name_AR": "كندا",
-    "PhoneCode": "1",
+    "PhoneCode": "+1",
     "Latitude": 47.82498,
     "Longitude": -86.24121
   },
@@ -424,7 +424,7 @@
     "Name_EN": "Cocos Islands",
     "Name_FA": "جزایر کوکوس",
     "Name_AR": "جزر كوكوس (كيلينغ)",
-    "PhoneCode": "61",
+    "PhoneCode": "+61",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -435,7 +435,7 @@
     "Name_EN": "Democratic Republic of the Congo",
     "Name_FA": "کنگو - کینشاسا",
     "Name_AR": "جمهورية الكونغو الديمقراطية",
-    "PhoneCode": "243",
+    "PhoneCode": "+243",
     "Latitude": -3.37208,
     "Longitude": 23.51435
   },
@@ -446,7 +446,7 @@
     "Name_EN": "Central African Republic",
     "Name_FA": "جمهوری افریقای مرکزی",
     "Name_AR": "جمهورية افريقيا الوسطى",
-    "PhoneCode": "236",
+    "PhoneCode": "+236",
     "Latitude": 5.64939,
     "Longitude": 19.09563
   },
@@ -457,7 +457,7 @@
     "Name_EN": "Republic of the Congo",
     "Name_FA": "کنگو (جمهوری)",
     "Name_AR": "الكونغو",
-    "PhoneCode": "242",
+    "PhoneCode": "+242",
     "Latitude": -2.03533,
     "Longitude": 14.66538
   },
@@ -468,7 +468,7 @@
     "Name_EN": "Switzerland",
     "Name_FA": "سويیس",
     "Name_AR": "سويسرا",
-    "PhoneCode": "41",
+    "PhoneCode": "+41",
     "Latitude": 47.06653,
     "Longitude": 8.1207
   },
@@ -479,7 +479,7 @@
     "Name_EN": "Ivory Coast",
     "Name_FA": "ساحل‌عاج",
     "Name_AR": "ساحل العاج",
-    "PhoneCode": "225",
+    "PhoneCode": "+225",
     "Latitude": 7.36496,
     "Longitude": -5.62383
   },
@@ -490,7 +490,7 @@
     "Name_EN": "Cook Islands",
     "Name_FA": "جزایر کوک",
     "Name_AR": "جزر كوك",
-    "PhoneCode": "682",
+    "PhoneCode": "+682",
     "Latitude": -21.2075,
     "Longitude": -159.77546
   },
@@ -501,7 +501,7 @@
     "Name_EN": "Chile",
     "Name_FA": "شیلی",
     "Name_AR": "تشيلي",
-    "PhoneCode": "56",
+    "PhoneCode": "+56",
     "Latitude": -34.93106,
     "Longitude": -71.91
   },
@@ -512,7 +512,7 @@
     "Name_EN": "Cameroon",
     "Name_FA": "کامرون",
     "Name_AR": "الكاميرون",
-    "PhoneCode": "237",
+    "PhoneCode": "+237",
     "Latitude": 5.75974,
     "Longitude": 11.54798
   },
@@ -523,7 +523,7 @@
     "Name_EN": "China",
     "Name_FA": "چین",
     "Name_AR": "الصين",
-    "PhoneCode": "86",
+    "PhoneCode": "+86",
     "Latitude": 31.91228,
     "Longitude": 112.95862
   },
@@ -534,7 +534,7 @@
     "Name_EN": "Colombia",
     "Name_FA": "کلمبیا",
     "Name_AR": "كولومبيا",
-    "PhoneCode": "57",
+    "PhoneCode": "+57",
     "Latitude": 5.66353,
     "Longitude": -74.74033
   },
@@ -545,7 +545,7 @@
     "Name_EN": "Costa Rica",
     "Name_FA": "کاستاریکا",
     "Name_AR": "كوستاريكا",
-    "PhoneCode": "506",
+    "PhoneCode": "+506",
     "Latitude": 9.97042,
     "Longitude": -84.22177
   },
@@ -556,7 +556,7 @@
     "Name_EN": "Cuba",
     "Name_FA": "کوبا",
     "Name_AR": "كوبا",
-    "PhoneCode": "53",
+    "PhoneCode": "+53",
     "Latitude": 22.08274,
     "Longitude": -79.92842
   },
@@ -567,7 +567,7 @@
     "Name_EN": "Cabo Verde",
     "Name_FA": "کیپ‌ورد",
     "Name_AR": "الراس الاخضر",
-    "PhoneCode": "238",
+    "PhoneCode": "+238",
     "Latitude": 15.75374,
     "Longitude": -23.98779
   },
@@ -578,7 +578,7 @@
     "Name_EN": "Curacao",
     "Name_FA": "کوراسايو",
     "Name_AR": "كوراساو",
-    "PhoneCode": "599",
+    "PhoneCode": "+599",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -589,7 +589,7 @@
     "Name_EN": "Christmas Island",
     "Name_FA": "جزیره کریسمس",
     "Name_AR": "جزيرة كريسماس",
-    "PhoneCode": "61",
+    "PhoneCode": "+61",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -600,7 +600,7 @@
     "Name_EN": "Cyprus",
     "Name_FA": "قبرس",
     "Name_AR": "قبرص",
-    "PhoneCode": "357",
+    "PhoneCode": "+357",
     "Latitude": 34.95304,
     "Longitude": 33.17255
   },
@@ -611,7 +611,7 @@
     "Name_EN": "Czechia",
     "Name_FA": "چک",
     "Name_AR": "التشيك",
-    "PhoneCode": "420",
+    "PhoneCode": "+420",
     "Latitude": 49.75854,
     "Longitude": 15.65876
   },
@@ -622,7 +622,7 @@
     "Name_EN": "Germany",
     "Name_FA": "المان",
     "Name_AR": "المانيا",
-    "PhoneCode": "49",
+    "PhoneCode": "+49",
     "Latitude": 50.90244,
     "Longitude": 9.96417
   },
@@ -633,7 +633,7 @@
     "Name_EN": "Djibouti",
     "Name_FA": "جیبوتی",
     "Name_AR": "جيبوتي",
-    "PhoneCode": "253",
+    "PhoneCode": "+253",
     "Latitude": 11.59807,
     "Longitude": 42.75852
   },
@@ -644,7 +644,7 @@
     "Name_EN": "Denmark",
     "Name_FA": "دانمارک",
     "Name_AR": "الدانمرك",
-    "PhoneCode": "45",
+    "PhoneCode": "+45",
     "Latitude": 55.8535,
     "Longitude": 10.68865
   },
@@ -677,7 +677,7 @@
     "Name_EN": "Algeria",
     "Name_FA": "الجزایر",
     "Name_AR": "الجزاير",
-    "PhoneCode": "213",
+    "PhoneCode": "+213",
     "Latitude": 34.82336,
     "Longitude": 3.26507
   },
@@ -688,7 +688,7 @@
     "Name_EN": "Ecuador",
     "Name_FA": "اکوادور",
     "Name_AR": "اكوادور",
-    "PhoneCode": "593",
+    "PhoneCode": "+593",
     "Latitude": -1.47644,
     "Longitude": -79.10937
   },
@@ -699,7 +699,7 @@
     "Name_EN": "Estonia",
     "Name_FA": "استونی",
     "Name_AR": "استونيا",
-    "PhoneCode": "372",
+    "PhoneCode": "+372",
     "Latitude": 58.8048,
     "Longitude": 25.52085
   },
@@ -710,7 +710,7 @@
     "Name_EN": "Egypt",
     "Name_FA": "مصر",
     "Name_AR": "مصر",
-    "PhoneCode": "20",
+    "PhoneCode": "+20",
     "Latitude": 29.33955,
     "Longitude": 31.41419
   },
@@ -721,7 +721,7 @@
     "Name_EN": "Western Sahara",
     "Name_FA": "صحرای غربی",
     "Name_AR": "لصحراء الغربية",
-    "PhoneCode": "212",
+    "PhoneCode": "+212",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -732,7 +732,7 @@
     "Name_EN": "Eritrea",
     "Name_FA": "اریتره",
     "Name_AR": "ارتيريا",
-    "PhoneCode": "291",
+    "PhoneCode": "+291",
     "Latitude": 14.9611,
     "Longitude": 38.96868
   },
@@ -743,7 +743,7 @@
     "Name_EN": "Spain",
     "Name_FA": "اسپانیا",
     "Name_AR": "اسبانيا",
-    "PhoneCode": "34",
+    "PhoneCode": "+34",
     "Latitude": 40.54005,
     "Longitude": -3.22347
   },
@@ -754,7 +754,7 @@
     "Name_EN": "Ethiopia",
     "Name_FA": "اتیوپی",
     "Name_AR": "اثيوبيا",
-    "PhoneCode": "251",
+    "PhoneCode": "+251",
     "Latitude": 9.1511,
     "Longitude": 38.90441
   },
@@ -765,7 +765,7 @@
     "Name_EN": "Finland",
     "Name_FA": "فنلاند",
     "Name_AR": "فنلندا",
-    "PhoneCode": "358",
+    "PhoneCode": "+358",
     "Latitude": 61.77545,
     "Longitude": 24.86579
   },
@@ -776,7 +776,7 @@
     "Name_EN": "Fiji",
     "Name_FA": "فیجی",
     "Name_AR": "فيجي",
-    "PhoneCode": "679",
+    "PhoneCode": "+679",
     "Latitude": -17.2541,
     "Longitude": 142.39049
   },
@@ -787,7 +787,7 @@
     "Name_EN": "Falkland Islands",
     "Name_FA": "جزایر فالکلند",
     "Name_AR": "جزر فوكلاند",
-    "PhoneCode": "500",
+    "PhoneCode": "+500",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -798,7 +798,7 @@
     "Name_EN": "Micronesia",
     "Name_FA": "میکرونزی",
     "Name_AR": "ميكرونيزيا",
-    "PhoneCode": "691",
+    "PhoneCode": "+691",
     "Latitude": 6.91256,
     "Longitude": 151.78544
   },
@@ -809,7 +809,7 @@
     "Name_EN": "Faroe Islands",
     "Name_FA": "جزایر فارو",
     "Name_AR": "جزر فارو",
-    "PhoneCode": "298",
+    "PhoneCode": "+298",
     "Latitude": 62.01028,
     "Longitude": -6.81855
   },
@@ -820,7 +820,7 @@
     "Name_EN": "France",
     "Name_FA": "فرانسه",
     "Name_AR": "فرنسا",
-    "PhoneCode": "33",
+    "PhoneCode": "+33",
     "Latitude": 47.03931,
     "Longitude": 2.48632
   },
@@ -831,7 +831,7 @@
     "Name_EN": "Gabon",
     "Name_FA": "گابون",
     "Name_AR": "غابون",
-    "PhoneCode": "241",
+    "PhoneCode": "+241",
     "Latitude": -0.81409,
     "Longitude": 11.72922
   },
@@ -842,7 +842,7 @@
     "Name_EN": "United Kingdom",
     "Name_FA": "بریتانیا",
     "Name_AR": "المملكة المتحدة",
-    "PhoneCode": "44",
+    "PhoneCode": "+44",
     "Latitude": 52.83365,
     "Longitude": -1.81178
   },
@@ -864,7 +864,7 @@
     "Name_EN": "Georgia",
     "Name_FA": "گرجستان",
     "Name_AR": "جورجيا",
-    "PhoneCode": "995",
+    "PhoneCode": "+995",
     "Latitude": 42.09441,
     "Longitude": 43.20005
   },
@@ -875,7 +875,7 @@
     "Name_EN": "French Guiana",
     "Name_FA": "گویان فرانسه",
     "Name_AR": "غويانا الفرنسية",
-    "PhoneCode": "594",
+    "PhoneCode": "+594",
     "Latitude": 4.82151,
     "Longitude": -52.94322
   },
@@ -897,7 +897,7 @@
     "Name_EN": "Ghana",
     "Name_FA": "غنا",
     "Name_AR": "غانا",
-    "PhoneCode": "233",
+    "PhoneCode": "+233",
     "Latitude": 6.67307,
     "Longitude": -0.9914
   },
@@ -908,7 +908,7 @@
     "Name_EN": "Gibraltar",
     "Name_FA": "جبل طارق",
     "Name_AR": "مستعمرة جبل طارق",
-    "PhoneCode": "350",
+    "PhoneCode": "+350",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -919,7 +919,7 @@
     "Name_EN": "Greenland",
     "Name_FA": "گروينلند",
     "Name_AR": "غرينلاند",
-    "PhoneCode": "299",
+    "PhoneCode": "+299",
     "Latitude": 66.58616,
     "Longitude": -51.15265
   },
@@ -930,7 +930,7 @@
     "Name_EN": "Gambia",
     "Name_FA": "گامبیا",
     "Name_AR": "غامبيا",
-    "PhoneCode": "220",
+    "PhoneCode": "+220",
     "Latitude": 13.439,
     "Longitude": -15.53801
   },
@@ -941,7 +941,7 @@
     "Name_EN": "Guinea",
     "Name_FA": "گینه",
     "Name_AR": "غينيا",
-    "PhoneCode": "224",
+    "PhoneCode": "+224",
     "Latitude": 10.59074,
     "Longitude": -11.12141
   },
@@ -952,7 +952,7 @@
     "Name_EN": "Guadeloupe",
     "Name_FA": "گوادلوپ",
     "Name_AR": "غوادلوب",
-    "PhoneCode": "590",
+    "PhoneCode": "+590",
     "Latitude": 16.17495,
     "Longitude": -61.56004
   },
@@ -963,7 +963,7 @@
     "Name_EN": "Equatorial Guinea",
     "Name_FA": "گینه استوایی",
     "Name_AR": "غينيا الاستوايية",
-    "PhoneCode": "240",
+    "PhoneCode": "+240",
     "Latitude": 1.86733,
     "Longitude": 9.74305
   },
@@ -974,7 +974,7 @@
     "Name_EN": "Greece",
     "Name_FA": "یونان",
     "Name_AR": "اليونان",
-    "PhoneCode": "30",
+    "PhoneCode": "+30",
     "Latitude": 38.9907,
     "Longitude": 23.00611
   },
@@ -985,7 +985,7 @@
     "Name_EN": "South Georgia and the South Sandwich Islands",
     "Name_FA": "جورجیای جنوبی و جزایر ساندویچ جنوبی",
     "Name_AR": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
-    "PhoneCode": "",
+    "PhoneCode": "+",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -996,7 +996,7 @@
     "Name_EN": "Guatemala",
     "Name_FA": "گواتمالا",
     "Name_AR": "غواتيمالا",
-    "PhoneCode": "502",
+    "PhoneCode": "+502",
     "Latitude": 14.91933,
     "Longitude": -90.85062
   },
@@ -1018,7 +1018,7 @@
     "Name_EN": "Guinea-Bissau",
     "Name_FA": "گینه بیسايو",
     "Name_AR": "غينيا بيساو",
-    "PhoneCode": "245",
+    "PhoneCode": "+245",
     "Latitude": 12.00351,
     "Longitude": -15.27594
   },
@@ -1029,7 +1029,7 @@
     "Name_EN": "Guyana",
     "Name_FA": "گویان",
     "Name_AR": "غوايانا",
-    "PhoneCode": "592",
+    "PhoneCode": "+592",
     "Latitude": 6.35637,
     "Longitude": -58.27317
   },
@@ -1040,7 +1040,7 @@
     "Name_EN": "Hong Kong",
     "Name_FA": "هنگ‌کنگ",
     "Name_AR": "هونغ كونغ",
-    "PhoneCode": "852",
+    "PhoneCode": "+852",
     "Latitude": 22.32484,
     "Longitude": 114.16516
   },
@@ -1051,7 +1051,7 @@
     "Name_EN": "Heard Island and McDonald Islands",
     "Name_FA": "هرد و جزایر مک‌دونالد",
     "Name_AR": "جزيرة هيرد وجزر ماكدونالد",
-    "PhoneCode": " ",
+    "PhoneCode": "+ ",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -1062,7 +1062,7 @@
     "Name_EN": "Honduras",
     "Name_FA": "هندوراس",
     "Name_AR": "هندوراس",
-    "PhoneCode": "504",
+    "PhoneCode": "+504",
     "Latitude": 14.81408,
     "Longitude": -87.51778
   },
@@ -1073,7 +1073,7 @@
     "Name_EN": "Croatia",
     "Name_FA": "کرواسی",
     "Name_AR": "كرواتيا",
-    "PhoneCode": "385",
+    "PhoneCode": "+385",
     "Latitude": 45.21501,
     "Longitude": 16.44222
   },
@@ -1084,7 +1084,7 @@
     "Name_EN": "Haiti",
     "Name_FA": "هاییتی",
     "Name_AR": "هايتي",
-    "PhoneCode": "509",
+    "PhoneCode": "+509",
     "Latitude": 18.98802,
     "Longitude": -72.75296
   },
@@ -1095,7 +1095,7 @@
     "Name_EN": "Hungary",
     "Name_FA": "مجارستان",
     "Name_AR": "هنغاريا",
-    "PhoneCode": "36",
+    "PhoneCode": "+36",
     "Latitude": 47.30735,
     "Longitude": 19.52631
   },
@@ -1106,7 +1106,7 @@
     "Name_EN": "Indonesia",
     "Name_FA": "اندونزی",
     "Name_AR": "اندونيسيا",
-    "PhoneCode": "62",
+    "PhoneCode": "+62",
     "Latitude": -6.86879,
     "Longitude": 112.92478
   },
@@ -1117,7 +1117,7 @@
     "Name_EN": "Ireland",
     "Name_FA": "ایرلند",
     "Name_AR": "ايرلندا",
-    "PhoneCode": "353",
+    "PhoneCode": "+353",
     "Latitude": 53.14511,
     "Longitude": -7.58381
   },
@@ -1128,7 +1128,7 @@
     "Name_EN": "Israel",
     "Name_FA": "اسرايیل",
     "Name_AR": "اسراييل",
-    "PhoneCode": "972",
+    "PhoneCode": "+972",
     "Latitude": 32.25933,
     "Longitude": 35.0521
   },
@@ -1150,7 +1150,7 @@
     "Name_EN": "India",
     "Name_FA": "هند",
     "Name_AR": "الهند",
-    "PhoneCode": "91",
+    "PhoneCode": "+91",
     "Latitude": 21.22481,
     "Longitude": 79.14081
   },
@@ -1161,7 +1161,7 @@
     "Name_EN": "British Indian Ocean Territory",
     "Name_FA": "مستعمره‌های بریتانیا در اقیانوس هند",
     "Name_AR": "الاقليم البريطاني في المحيط الهندي",
-    "PhoneCode": "246",
+    "PhoneCode": "+246",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -1172,7 +1172,7 @@
     "Name_EN": "Iraq",
     "Name_FA": "عراق",
     "Name_AR": "العراق",
-    "PhoneCode": "964",
+    "PhoneCode": "+964",
     "Latitude": 34.2486,
     "Longitude": 44.55443
   },
@@ -1183,7 +1183,7 @@
     "Name_EN": "Iran",
     "Name_FA": "ایران",
     "Name_AR": "ايران",
-    "PhoneCode": "98",
+    "PhoneCode": "+98",
     "Latitude": 33.49114,
     "Longitude": 51.91407
   },
@@ -1194,7 +1194,7 @@
     "Name_EN": "Iceland",
     "Name_FA": "ایسلند",
     "Name_AR": "ايسلندا",
-    "PhoneCode": "354",
+    "PhoneCode": "+354",
     "Latitude": 64.70911,
     "Longitude": -20.18913
   },
@@ -1205,7 +1205,7 @@
     "Name_EN": "Italy",
     "Name_FA": "ایتالیا",
     "Name_AR": "ايطاليا",
-    "PhoneCode": "39",
+    "PhoneCode": "+39",
     "Latitude": 43.43821,
     "Longitude": 11.6867
   },
@@ -1238,7 +1238,7 @@
     "Name_EN": "Jordan",
     "Name_FA": "اردن",
     "Name_AR": "الاردن",
-    "PhoneCode": "962",
+    "PhoneCode": "+962",
     "Latitude": 31.87584,
     "Longitude": 35.89198
   },
@@ -1249,7 +1249,7 @@
     "Name_EN": "Japan",
     "Name_FA": "ژاپن",
     "Name_AR": "اليابان",
-    "PhoneCode": "81",
+    "PhoneCode": "+81",
     "Latitude": 35.89906,
     "Longitude": 137.11904
   },
@@ -1260,7 +1260,7 @@
     "Name_EN": "Kenya",
     "Name_FA": "کنیا",
     "Name_AR": "كينيا",
-    "PhoneCode": "254",
+    "PhoneCode": "+254",
     "Latitude": -0.59082,
     "Longitude": 36.70274
   },
@@ -1271,7 +1271,7 @@
     "Name_EN": "Kyrgyzstan",
     "Name_FA": "قرقیزستان",
     "Name_AR": "قيرغيزستان",
-    "PhoneCode": "996",
+    "PhoneCode": "+996",
     "Latitude": 41.2114,
     "Longitude": 73.02598
   },
@@ -1282,7 +1282,7 @@
     "Name_EN": "Cambodia",
     "Name_FA": "کامبوج",
     "Name_AR": "كمبوديا",
-    "PhoneCode": "855",
+    "PhoneCode": "+855",
     "Latitude": 12.54862,
     "Longitude": 105.05526
   },
@@ -1293,7 +1293,7 @@
     "Name_EN": "Kiribati",
     "Name_FA": "کیریباتی",
     "Name_AR": "كيريباتي",
-    "PhoneCode": "686",
+    "PhoneCode": "+686",
     "Latitude": 0.96824,
     "Longitude": 128.89527
   },
@@ -1304,7 +1304,7 @@
     "Name_EN": "Comoros",
     "Name_FA": "کومورو",
     "Name_AR": "جزر القمر",
-    "PhoneCode": "269",
+    "PhoneCode": "+269",
     "Latitude": -11.93758,
     "Longitude": 43.78528
   },
@@ -1326,7 +1326,7 @@
     "Name_EN": "North Korea",
     "Name_FA": "کره شمالی",
     "Name_AR": "كوريا الشمالية",
-    "PhoneCode": "850",
+    "PhoneCode": "+850",
     "Latitude": 40.13224,
     "Longitude": 127.20309
   },
@@ -1337,7 +1337,7 @@
     "Name_EN": "South Korea",
     "Name_FA": "کره جنوبی",
     "Name_AR": "كوريا الجنوبية",
-    "PhoneCode": "82",
+    "PhoneCode": "+82",
     "Latitude": 36.14665,
     "Longitude": 127.45405
   },
@@ -1348,7 +1348,7 @@
     "Name_EN": "Kosovo",
     "Name_FA": "کوزوو",
     "Name_AR": "كوسوفو",
-    "PhoneCode": "",
+    "PhoneCode": "+",
     "Latitude": 42.52678,
     "Longitude": 20.76287
   },
@@ -1359,7 +1359,7 @@
     "Name_EN": "Kuwait",
     "Name_FA": "کویت",
     "Name_AR": "الكويت",
-    "PhoneCode": "965",
+    "PhoneCode": "+965",
     "Latitude": 29.26233,
     "Longitude": 48.03289
   },
@@ -1381,7 +1381,7 @@
     "Name_EN": "Kazakhstan",
     "Name_FA": "قزاقستان",
     "Name_AR": "كازاخستان",
-    "PhoneCode": "7",
+    "PhoneCode": "+7",
     "Latitude": 48.3951,
     "Longitude": 69.08896
   },
@@ -1392,7 +1392,7 @@
     "Name_EN": "Laos",
     "Name_FA": "لايوس",
     "Name_AR": "لاوس",
-    "PhoneCode": "856",
+    "PhoneCode": "+856",
     "Latitude": 18.06226,
     "Longitude": 104.05017
   },
@@ -1403,7 +1403,7 @@
     "Name_EN": "Lebanon",
     "Name_FA": "لبنان",
     "Name_AR": "لبنان",
-    "PhoneCode": "961",
+    "PhoneCode": "+961",
     "Latitude": 33.75955,
     "Longitude": 35.64219
   },
@@ -1425,7 +1425,7 @@
     "Name_EN": "Liechtenstein",
     "Name_FA": "لیختن‌اشتاین",
     "Name_AR": "ليختنشتاين",
-    "PhoneCode": "423",
+    "PhoneCode": "+423",
     "Latitude": 47.17507,
     "Longitude": 9.52818
   },
@@ -1436,7 +1436,7 @@
     "Name_EN": "Sri Lanka",
     "Name_FA": "سری‌لانکا",
     "Name_AR": "سري لانكا",
-    "PhoneCode": "94",
+    "PhoneCode": "+94",
     "Latitude": 7.16357,
     "Longitude": 80.39957
   },
@@ -1447,7 +1447,7 @@
     "Name_EN": "Liberia",
     "Name_FA": "لیبریا",
     "Name_AR": "ليبيريا",
-    "PhoneCode": "231",
+    "PhoneCode": "+231",
     "Latitude": 6.47322,
     "Longitude": -9.26187
   },
@@ -1458,7 +1458,7 @@
     "Name_EN": "Lesotho",
     "Name_FA": "لسوتو",
     "Name_AR": "ليسوتو",
-    "PhoneCode": "266",
+    "PhoneCode": "+266",
     "Latitude": -29.5493,
     "Longitude": 27.99638
   },
@@ -1469,7 +1469,7 @@
     "Name_EN": "Lithuania",
     "Name_FA": "لیتوانی",
     "Name_AR": "ليتوانيا",
-    "PhoneCode": "370",
+    "PhoneCode": "+370",
     "Latitude": 55.19837,
     "Longitude": 23.87225
   },
@@ -1480,7 +1480,7 @@
     "Name_EN": "Luxembourg",
     "Name_FA": "لوکزامبورگ",
     "Name_AR": "لوكسومبرغ",
-    "PhoneCode": "352",
+    "PhoneCode": "+352",
     "Latitude": 49.68591,
     "Longitude": 6.12042
   },
@@ -1491,7 +1491,7 @@
     "Name_EN": "Latvia",
     "Name_FA": "لتونی",
     "Name_AR": "لاتفيا",
-    "PhoneCode": "371",
+    "PhoneCode": "+371",
     "Latitude": 56.89367,
     "Longitude": 24.48457
   },
@@ -1502,7 +1502,7 @@
     "Name_EN": "Libya",
     "Name_FA": "لیبی",
     "Name_AR": "ليبيا",
-    "PhoneCode": "218",
+    "PhoneCode": "+218",
     "Latitude": 30.86691,
     "Longitude": 16.00602
   },
@@ -1513,7 +1513,7 @@
     "Name_EN": "Morocco",
     "Name_FA": "مراکش",
     "Name_AR": "المغرب",
-    "PhoneCode": "212",
+    "PhoneCode": "+212",
     "Latitude": 32.86905,
     "Longitude": -6.34916
   },
@@ -1524,7 +1524,7 @@
     "Name_EN": "Monaco",
     "Name_FA": "موناکو",
     "Name_AR": "موناكو",
-    "PhoneCode": "377",
+    "PhoneCode": "+377",
     "Latitude": 43.73731,
     "Longitude": 7.42289
   },
@@ -1535,7 +1535,7 @@
     "Name_EN": "Moldova",
     "Name_FA": "مولدووا",
     "Name_AR": "مولدوفا",
-    "PhoneCode": "373",
+    "PhoneCode": "+373",
     "Latitude": 47.14802,
     "Longitude": 28.62466
   },
@@ -1546,7 +1546,7 @@
     "Name_EN": "Montenegro",
     "Name_FA": "مونته‌نگرو",
     "Name_AR": "الجبل الاسود",
-    "PhoneCode": "382",
+    "PhoneCode": "+382",
     "Latitude": 42.54624,
     "Longitude": 19.14003
   },
@@ -1557,7 +1557,7 @@
     "Name_EN": "Saint Martin",
     "Name_FA": "سنت مارتین",
     "Name_AR": "سان مارتن",
-    "PhoneCode": "590",
+    "PhoneCode": "+590",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -1568,7 +1568,7 @@
     "Name_EN": "Madagascar",
     "Name_FA": "ماداگاسکار",
     "Name_AR": "مدغشقر",
-    "PhoneCode": "261",
+    "PhoneCode": "+261",
     "Latitude": -19.31038,
     "Longitude": 47.32086
   },
@@ -1579,7 +1579,7 @@
     "Name_EN": "Marshall Islands",
     "Name_FA": "جزایر مارشال",
     "Name_AR": "جزر مارشال",
-    "PhoneCode": "692",
+    "PhoneCode": "+692",
     "Latitude": 8.34365,
     "Longitude": 168.80331
   },
@@ -1590,7 +1590,7 @@
     "Name_EN": "North Macedonia",
     "Name_FA": "مقدونیه",
     "Name_AR": "مقدونيا الشمالية",
-    "PhoneCode": "389",
+    "PhoneCode": "+389",
     "Latitude": 41.6115,
     "Longitude": 21.49489
   },
@@ -1601,7 +1601,7 @@
     "Name_EN": "Mali",
     "Name_FA": "مالی",
     "Name_AR": "مالي",
-    "PhoneCode": "223",
+    "PhoneCode": "+223",
     "Latitude": 14.00871,
     "Longitude": -5.62686
   },
@@ -1612,7 +1612,7 @@
     "Name_EN": "Myanmar",
     "Name_FA": "میانمار",
     "Name_AR": "ميانمار (بورما)",
-    "PhoneCode": "95",
+    "PhoneCode": "+95",
     "Latitude": 19.15561,
     "Longitude": 96.36513
   },
@@ -1623,7 +1623,7 @@
     "Name_EN": "Mongolia",
     "Name_FA": "مغولستان",
     "Name_AR": "منغوليا",
-    "PhoneCode": "976",
+    "PhoneCode": "+976",
     "Latitude": 47.47997,
     "Longitude": 102.38627
   },
@@ -1634,7 +1634,7 @@
     "Name_EN": "Macao",
     "Name_FA": "ماکايو",
     "Name_AR": "ماكاو",
-    "PhoneCode": "853",
+    "PhoneCode": "+853",
     "Latitude": 22.13761,
     "Longitude": 113.55955
   },
@@ -1656,7 +1656,7 @@
     "Name_EN": "Martinique",
     "Name_FA": "مارتینیک",
     "Name_AR": "جزر المارتينيك",
-    "PhoneCode": "596",
+    "PhoneCode": "+596",
     "Latitude": 14.66242,
     "Longitude": -61.01205
   },
@@ -1667,7 +1667,7 @@
     "Name_EN": "Mauritania",
     "Name_FA": "موریتانی",
     "Name_AR": "موريتانيا",
-    "PhoneCode": "222",
+    "PhoneCode": "+222",
     "Latitude": 17.41574,
     "Longitude": -12.48872
   },
@@ -1689,7 +1689,7 @@
     "Name_EN": "Malta",
     "Name_FA": "مالت",
     "Name_AR": "مالطة",
-    "PhoneCode": "356",
+    "PhoneCode": "+356",
     "Latitude": 35.91881,
     "Longitude": 14.42702
   },
@@ -1700,7 +1700,7 @@
     "Name_EN": "Mauritius",
     "Name_FA": "موریتیوس",
     "Name_AR": "موريشوس",
-    "PhoneCode": "230",
+    "PhoneCode": "+230",
     "Latitude": -20.09797,
     "Longitude": 57.70364
   },
@@ -1711,7 +1711,7 @@
     "Name_EN": "Maldives",
     "Name_FA": "مالدیو",
     "Name_AR": "مالديف",
-    "PhoneCode": "960",
+    "PhoneCode": "+960",
     "Latitude": 3.11852,
     "Longitude": 73.27605
   },
@@ -1722,7 +1722,7 @@
     "Name_EN": "Malawi",
     "Name_FA": "مالاوی",
     "Name_AR": "ملاوي",
-    "PhoneCode": "265",
+    "PhoneCode": "+265",
     "Latitude": -14.0495,
     "Longitude": 34.51627
   },
@@ -1733,7 +1733,7 @@
     "Name_EN": "Mexico",
     "Name_FA": "مکزیک",
     "Name_AR": "المكسيك",
-    "PhoneCode": "52",
+    "PhoneCode": "+52",
     "Latitude": 20.07797,
     "Longitude": -99.0786
   },
@@ -1744,7 +1744,7 @@
     "Name_EN": "Malaysia",
     "Name_FA": "مالزی",
     "Name_AR": "ماليزيا",
-    "PhoneCode": "60",
+    "PhoneCode": "+60",
     "Latitude": 3.84117,
     "Longitude": 103.36645
   },
@@ -1755,7 +1755,7 @@
     "Name_EN": "Mozambique",
     "Name_FA": "موزامبیک",
     "Name_AR": "موزمبيق",
-    "PhoneCode": "258",
+    "PhoneCode": "+258",
     "Latitude": -18.89813,
     "Longitude": 35.75264
   },
@@ -1766,7 +1766,7 @@
     "Name_EN": "Namibia",
     "Name_FA": "نامیبیا",
     "Name_AR": "ناميبيا",
-    "PhoneCode": "264",
+    "PhoneCode": "+264",
     "Latitude": -21.55707,
     "Longitude": 17.17305
   },
@@ -1777,7 +1777,7 @@
     "Name_EN": "New Caledonia",
     "Name_FA": "کالدونیای جدید",
     "Name_AR": "كاليدونيا الجديدة",
-    "PhoneCode": "687",
+    "PhoneCode": "+687",
     "Latitude": -21.24882,
     "Longitude": 165.5859
   },
@@ -1788,7 +1788,7 @@
     "Name_EN": "Niger",
     "Name_FA": "نیجر",
     "Name_AR": "النيجر",
-    "PhoneCode": "227",
+    "PhoneCode": "+227",
     "Latitude": 14.40564,
     "Longitude": 6.37625
   },
@@ -1799,7 +1799,7 @@
     "Name_EN": "Norfolk Island",
     "Name_FA": "جزیره نورفولک",
     "Name_AR": "جزيرة نورفولك",
-    "PhoneCode": "672",
+    "PhoneCode": "+672",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -1810,7 +1810,7 @@
     "Name_EN": "Nigeria",
     "Name_FA": "نیجریه",
     "Name_AR": "نيجيريا",
-    "PhoneCode": "234",
+    "PhoneCode": "+234",
     "Latitude": 8.76249,
     "Longitude": 7.41985
   },
@@ -1821,7 +1821,7 @@
     "Name_EN": "Nicaragua",
     "Name_FA": "نیکاراگويه",
     "Name_AR": "نيكاراغوا",
-    "PhoneCode": "505",
+    "PhoneCode": "+505",
     "Latitude": 12.58427,
     "Longitude": -85.87846
   },
@@ -1832,7 +1832,7 @@
     "Name_EN": "The Netherlands",
     "Name_FA": "هلند",
     "Name_AR": "هولندا",
-    "PhoneCode": "31",
+    "PhoneCode": "+31",
     "Latitude": 52.09556,
     "Longitude": 5.52285
   },
@@ -1843,7 +1843,7 @@
     "Name_EN": "Norway",
     "Name_FA": "نروژ",
     "Name_AR": "النرويج",
-    "PhoneCode": "47",
+    "PhoneCode": "+47",
     "Latitude": 61.91649,
     "Longitude": 10.21163
   },
@@ -1854,7 +1854,7 @@
     "Name_EN": "Nepal",
     "Name_FA": "نپال",
     "Name_AR": "النيبال",
-    "PhoneCode": "977",
+    "PhoneCode": "+977",
     "Latitude": 27.95763,
     "Longitude": 84.21525
   },
@@ -1865,7 +1865,7 @@
     "Name_EN": "Nauru",
     "Name_FA": "نايورو",
     "Name_AR": "ناورو",
-    "PhoneCode": "674",
+    "PhoneCode": "+674",
     "Latitude": -0.52755,
     "Longitude": 166.93088
   },
@@ -1876,7 +1876,7 @@
     "Name_EN": "Niue",
     "Name_FA": "نیووی",
     "Name_AR": "نيوي",
-    "PhoneCode": "683",
+    "PhoneCode": "+683",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -1887,7 +1887,7 @@
     "Name_EN": "New Zealand",
     "Name_FA": "زلاند نو",
     "Name_AR": "زيلندا الجديدة",
-    "PhoneCode": "64",
+    "PhoneCode": "+64",
     "Latitude": -40.45004,
     "Longitude": 173.36659
   },
@@ -1898,7 +1898,7 @@
     "Name_EN": "Oman",
     "Name_FA": "عمان",
     "Name_AR": "عمان",
-    "PhoneCode": "968",
+    "PhoneCode": "+968",
     "Latitude": 23.19397,
     "Longitude": 57.09701
   },
@@ -1909,7 +1909,7 @@
     "Name_EN": "Panama",
     "Name_FA": "پاناما",
     "Name_AR": "بنما",
-    "PhoneCode": "507",
+    "PhoneCode": "+507",
     "Latitude": 8.4828,
     "Longitude": -80.72841
   },
@@ -1920,7 +1920,7 @@
     "Name_EN": "Peru",
     "Name_FA": "پرو",
     "Name_AR": "بيرو",
-    "PhoneCode": "51",
+    "PhoneCode": "+51",
     "Latitude": -10.6812,
     "Longitude": -75.5787
   },
@@ -1931,7 +1931,7 @@
     "Name_EN": "French Polynesia",
     "Name_FA": "پلی‌نزی فرانسه",
     "Name_AR": "بولينسيا الفرنسية",
-    "PhoneCode": "689",
+    "PhoneCode": "+689",
     "Latitude": -17.46202,
     "Longitude": -148.84657
   },
@@ -1942,7 +1942,7 @@
     "Name_EN": "Papua New Guinea",
     "Name_FA": "پاپوا گینه نو",
     "Name_AR": "بابوا غينيا الجديدة",
-    "PhoneCode": "675",
+    "PhoneCode": "+675",
     "Latitude": -6.21547,
     "Longitude": 146.81385
   },
@@ -1953,7 +1953,7 @@
     "Name_EN": "Philippines",
     "Name_FA": "فیلیپین",
     "Name_AR": "الفيلبين",
-    "PhoneCode": "63",
+    "PhoneCode": "+63",
     "Latitude": 11.8979,
     "Longitude": 122.73306
   },
@@ -1964,7 +1964,7 @@
     "Name_EN": "Pakistan",
     "Name_FA": "پاکستان",
     "Name_AR": "الباكستان",
-    "PhoneCode": "92",
+    "PhoneCode": "+92",
     "Latitude": 30.35641,
     "Longitude": 71.19131
   },
@@ -1975,7 +1975,7 @@
     "Name_EN": "Poland",
     "Name_FA": "لهستان",
     "Name_AR": "بولندا",
-    "PhoneCode": "48",
+    "PhoneCode": "+48",
     "Latitude": 51.47804,
     "Longitude": 19.46498
   },
@@ -1986,7 +1986,7 @@
     "Name_EN": "Saint Pierre and Miquelon",
     "Name_FA": "سن پیر و میکلن",
     "Name_AR": "سان بيير ومكويلون",
-    "PhoneCode": "508",
+    "PhoneCode": "+508",
     "Latitude": 46.93832,
     "Longitude": -56.27935
   },
@@ -1997,7 +1997,7 @@
     "Name_EN": "Pitcairn",
     "Name_FA": "جزایر پیت‌کرن",
     "Name_AR": "جزر بيتكيرن",
-    "PhoneCode": "870",
+    "PhoneCode": "+870",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -2019,7 +2019,7 @@
     "Name_EN": "Palestinian Territory",
     "Name_FA": "فلسطین",
     "Name_AR": "فلسطين",
-    "PhoneCode": "970",
+    "PhoneCode": "+970",
     "Latitude": 31.97241,
     "Longitude": 35.13254
   },
@@ -2030,7 +2030,7 @@
     "Name_EN": "Portugal",
     "Name_FA": "پرتغال",
     "Name_AR": "البرتغال",
-    "PhoneCode": "351",
+    "PhoneCode": "+351",
     "Latitude": 39.5575,
     "Longitude": -9.85758
   },
@@ -2041,7 +2041,7 @@
     "Name_EN": "Palau",
     "Name_FA": "پالايو",
     "Name_AR": "بالاو",
-    "PhoneCode": "680",
+    "PhoneCode": "+680",
     "Latitude": 7.19386,
     "Longitude": 134.31093
   },
@@ -2052,7 +2052,7 @@
     "Name_EN": "Paraguay",
     "Name_FA": "پاراگويه",
     "Name_AR": "باراغواي",
-    "PhoneCode": "595",
+    "PhoneCode": "+595",
     "Latitude": -25.31402,
     "Longitude": -56.64957
   },
@@ -2063,7 +2063,7 @@
     "Name_EN": "Qatar",
     "Name_FA": "قطر",
     "Name_AR": "قطر",
-    "PhoneCode": "974",
+    "PhoneCode": "+974",
     "Latitude": 25.37125,
     "Longitude": 51.41018
   },
@@ -2074,7 +2074,7 @@
     "Name_EN": "Reunion",
     "Name_FA": "ريونیون",
     "Name_AR": "روينيون",
-    "PhoneCode": "262",
+    "PhoneCode": "+262",
     "Latitude": -21.1189,
     "Longitude": 55.49876
   },
@@ -2085,7 +2085,7 @@
     "Name_EN": "Romania",
     "Name_FA": "رومانی",
     "Name_AR": "رومانيا",
-    "PhoneCode": "40",
+    "PhoneCode": "+40",
     "Latitude": 45.83148,
     "Longitude": 25.08052
   },
@@ -2096,7 +2096,7 @@
     "Name_EN": "Serbia",
     "Name_FA": "صربستان",
     "Name_AR": "جمهورية صربيا",
-    "PhoneCode": "381",
+    "PhoneCode": "+381",
     "Latitude": 44.6863,
     "Longitude": 20.43083
   },
@@ -2107,7 +2107,7 @@
     "Name_EN": "Russia",
     "Name_FA": "روسیه",
     "Name_AR": "روسيا",
-    "PhoneCode": "7",
+    "PhoneCode": "+7",
     "Latitude": 53.63451,
     "Longitude": 57.66337
   },
@@ -2118,7 +2118,7 @@
     "Name_EN": "Rwanda",
     "Name_FA": "رواندا",
     "Name_AR": "رواندا",
-    "PhoneCode": "250",
+    "PhoneCode": "+250",
     "Latitude": -2.05874,
     "Longitude": 29.62854
   },
@@ -2129,7 +2129,7 @@
     "Name_EN": "Saudi Arabia",
     "Name_FA": "عربستان",
     "Name_AR": "العربية السعودية",
-    "PhoneCode": "966",
+    "PhoneCode": "+966",
     "Latitude": 24.29646,
     "Longitude": 44.28677
   },
@@ -2140,7 +2140,7 @@
     "Name_EN": "Solomon Islands",
     "Name_FA": "جزایر سلیمان",
     "Name_AR": "جزر سليمان",
-    "PhoneCode": "677",
+    "PhoneCode": "+677",
     "Latitude": -8.94659,
     "Longitude": 159.83311
   },
@@ -2151,7 +2151,7 @@
     "Name_EN": "Seychelles",
     "Name_FA": "سیشل",
     "Name_AR": "سيشل",
-    "PhoneCode": "248",
+    "PhoneCode": "+248",
     "Latitude": -4.63934,
     "Longitude": 55.50583
   },
@@ -2162,7 +2162,7 @@
     "Name_EN": "Sudan",
     "Name_FA": "سودان",
     "Name_AR": "السودان",
-    "PhoneCode": "249",
+    "PhoneCode": "+249",
     "Latitude": 14.30994,
     "Longitude": 31.45197
   },
@@ -2173,7 +2173,7 @@
     "Name_EN": "South Sudan",
     "Name_FA": "سودان جنوبی",
     "Name_AR": "جنوب السودان",
-    "PhoneCode": "211",
+    "PhoneCode": "+211",
     "Latitude": 6.99822,
     "Longitude": 29.54268
   },
@@ -2184,7 +2184,7 @@
     "Name_EN": "Sweden",
     "Name_FA": "سويد",
     "Name_AR": "السويد",
-    "PhoneCode": "46",
+    "PhoneCode": "+46",
     "Latitude": 59.09172,
     "Longitude": 15.36207
   },
@@ -2195,7 +2195,7 @@
     "Name_EN": "Singapore",
     "Name_FA": "سنگاپور",
     "Name_AR": "سنغافورة",
-    "PhoneCode": "65",
+    "PhoneCode": "+65",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -2206,7 +2206,7 @@
     "Name_EN": "Saint Helena",
     "Name_FA": "سنت هلن",
     "Name_AR": "سانت هيلينا",
-    "PhoneCode": "290",
+    "PhoneCode": "+290",
     "Latitude": -18.12533,
     "Longitude": -8.262
   },
@@ -2217,7 +2217,7 @@
     "Name_EN": "Slovenia",
     "Name_FA": "اسلوونی",
     "Name_AR": "سلوفينيا",
-    "PhoneCode": "386",
+    "PhoneCode": "+386",
     "Latitude": 46.21486,
     "Longitude": 14.9589
   },
@@ -2228,7 +2228,7 @@
     "Name_EN": "Svalbard and Jan Mayen",
     "Name_FA": "سوالبارد و یان ماین",
     "Name_AR": "سفالبارد وجان ماين",
-    "PhoneCode": "47",
+    "PhoneCode": "+47",
     "Latitude": 74.57272,
     "Longitude": 3.4641
   },
@@ -2239,7 +2239,7 @@
     "Name_EN": "Slovakia",
     "Name_FA": "اسلواکی",
     "Name_AR": "سلوفاكيا",
-    "PhoneCode": "421",
+    "PhoneCode": "+421",
     "Latitude": 48.54412,
     "Longitude": 18.58323
   },
@@ -2250,7 +2250,7 @@
     "Name_EN": "Sierra Leone",
     "Name_FA": "سیراليون",
     "Name_AR": "سيراليون",
-    "PhoneCode": "232",
+    "PhoneCode": "+232",
     "Latitude": 8.35595,
     "Longitude": -11.79883
   },
@@ -2261,7 +2261,7 @@
     "Name_EN": "San Marino",
     "Name_FA": "سان‌مارینو",
     "Name_AR": "سان مارينو",
-    "PhoneCode": "378",
+    "PhoneCode": "+378",
     "Latitude": 43.94191,
     "Longitude": 12.46331
   },
@@ -2272,7 +2272,7 @@
     "Name_EN": "Senegal",
     "Name_FA": "سنگال",
     "Name_AR": "السنغال",
-    "PhoneCode": "221",
+    "PhoneCode": "+221",
     "Latitude": 14.54231,
     "Longitude": -15.52738
   },
@@ -2283,7 +2283,7 @@
     "Name_EN": "Somalia",
     "Name_FA": "سومالی",
     "Name_AR": "الصومال",
-    "PhoneCode": "252",
+    "PhoneCode": "+252",
     "Latitude": 5.91902,
     "Longitude": 45.38829
   },
@@ -2294,7 +2294,7 @@
     "Name_EN": "Suriname",
     "Name_FA": "سورینام",
     "Name_AR": "سورينام",
-    "PhoneCode": "597",
+    "PhoneCode": "+597",
     "Latitude": 5.52892,
     "Longitude": -55.26612
   },
@@ -2305,7 +2305,7 @@
     "Name_EN": "Sao Tome and Principe",
     "Name_FA": "سايوتومه و پرینسیپه",
     "Name_AR": "سان تومي وبرينسيبي",
-    "PhoneCode": "239",
+    "PhoneCode": "+239",
     "Latitude": 0.33421,
     "Longitude": 6.68677
   },
@@ -2316,7 +2316,7 @@
     "Name_EN": "El Salvador",
     "Name_FA": "السالوادور",
     "Name_AR": "السلفادور",
-    "PhoneCode": "503",
+    "PhoneCode": "+503",
     "Latitude": 13.69218,
     "Longitude": -88.91955
   },
@@ -2327,7 +2327,7 @@
     "Name_EN": "Sint Maarten",
     "Name_FA": "سنت مارتن",
     "Name_AR": "سنت مارتن",
-    "PhoneCode": "599",
+    "PhoneCode": "+599",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -2338,7 +2338,7 @@
     "Name_EN": "Syria",
     "Name_FA": "سوریه",
     "Name_AR": "سورية",
-    "PhoneCode": "963",
+    "PhoneCode": "+963",
     "Latitude": 34.99218,
     "Longitude": 37.10848
   },
@@ -2349,7 +2349,7 @@
     "Name_EN": "Eswatini",
     "Name_FA": "سوازیلند",
     "Name_AR": "اسواتيني",
-    "PhoneCode": "268",
+    "PhoneCode": "+268",
     "Latitude": -26.49654,
     "Longitude": 31.42038
   },
@@ -2371,7 +2371,7 @@
     "Name_EN": "Chad",
     "Name_FA": "چاد",
     "Name_AR": "تشاد",
-    "PhoneCode": "235",
+    "PhoneCode": "+235",
     "Latitude": 11.98918,
     "Longitude": 17.48273
   },
@@ -2382,7 +2382,7 @@
     "Name_EN": "French Southern Territories",
     "Name_FA": "سرزمین‌های جنوب فرانسه",
     "Name_AR": "الاقاليم الجنوبية الفرنسية",
-    "PhoneCode": "",
+    "PhoneCode": "+",
     "Latitude": -49.34916,
     "Longitude": 70.21937
   },
@@ -2393,7 +2393,7 @@
     "Name_EN": "Togo",
     "Name_FA": "توگو",
     "Name_AR": "توغو",
-    "PhoneCode": "228",
+    "PhoneCode": "+228",
     "Latitude": 8.23023,
     "Longitude": 0.97474
   },
@@ -2404,7 +2404,7 @@
     "Name_EN": "Thailand",
     "Name_FA": "تایلند",
     "Name_AR": "تايلاند",
-    "PhoneCode": "66",
+    "PhoneCode": "+66",
     "Latitude": 14.29634,
     "Longitude": 101.19985
   },
@@ -2415,7 +2415,7 @@
     "Name_EN": "Tajikistan",
     "Name_FA": "تاجیکستان",
     "Name_AR": "تاجيكستان",
-    "PhoneCode": "992",
+    "PhoneCode": "+992",
     "Latitude": 38.77861,
     "Longitude": 69.51034
   },
@@ -2426,7 +2426,7 @@
     "Name_EN": "Tokelau",
     "Name_FA": "توکلايو",
     "Name_AR": "توكيلو",
-    "PhoneCode": "690",
+    "PhoneCode": "+690",
     "Latitude": -9.04258,
     "Longitude": -171.87023
   },
@@ -2437,7 +2437,7 @@
     "Name_EN": "Timor Leste",
     "Name_FA": "تیمور شرقی",
     "Name_AR": "تيمور الشرقية",
-    "PhoneCode": "670",
+    "PhoneCode": "+670",
     "Latitude": -8.7294,
     "Longitude": 125.73485
   },
@@ -2448,7 +2448,7 @@
     "Name_EN": "Turkmenistan",
     "Name_FA": "ترکمنستان",
     "Name_AR": "تركمانستان",
-    "PhoneCode": "993",
+    "PhoneCode": "+993",
     "Latitude": 38.84454,
     "Longitude": 60.05642
   },
@@ -2459,7 +2459,7 @@
     "Name_EN": "Tunisia",
     "Name_FA": "تونس",
     "Name_AR": "تونس",
-    "PhoneCode": "216",
+    "PhoneCode": "+216",
     "Latitude": 35.64161,
     "Longitude": 10.01917
   },
@@ -2470,7 +2470,7 @@
     "Name_EN": "Tonga",
     "Name_FA": "تونگا",
     "Name_AR": "تونغا",
-    "PhoneCode": "676",
+    "PhoneCode": "+676",
     "Latitude": -20.47327,
     "Longitude": -174.87714
   },
@@ -2481,7 +2481,7 @@
     "Name_EN": "Turkey",
     "Name_FA": "ترکیه",
     "Name_AR": "تركيا",
-    "PhoneCode": "90",
+    "PhoneCode": "+90",
     "Latitude": 38.65558,
     "Longitude": 34.66332
   },
@@ -2503,7 +2503,7 @@
     "Name_EN": "Tuvalu",
     "Name_FA": "تووالو",
     "Name_AR": "توفالو",
-    "PhoneCode": "688",
+    "PhoneCode": "+688",
     "Latitude": -7.8128,
     "Longitude": 178.47161
   },
@@ -2514,7 +2514,7 @@
     "Name_EN": "Taiwan",
     "Name_FA": "تایوان",
     "Name_AR": "تايوان",
-    "PhoneCode": "886",
+    "PhoneCode": "+886",
     "Latitude": 24.16356,
     "Longitude": 120.66892
   },
@@ -2525,7 +2525,7 @@
     "Name_EN": "Tanzania",
     "Name_FA": "تانزانیا",
     "Name_AR": "تانزانيا",
-    "PhoneCode": "255",
+    "PhoneCode": "+255",
     "Latitude": -5.85813,
     "Longitude": 35.54007
   },
@@ -2536,7 +2536,7 @@
     "Name_EN": "Ukraine",
     "Name_FA": "اوکراین",
     "Name_AR": "اوكرانيا",
-    "PhoneCode": "380",
+    "PhoneCode": "+380",
     "Latitude": 47.75402,
     "Longitude": 30.82556
   },
@@ -2547,7 +2547,7 @@
     "Name_EN": "Uganda",
     "Name_FA": "اوگاندا",
     "Name_AR": "اوغندا",
-    "PhoneCode": "256",
+    "PhoneCode": "+256",
     "Latitude": 0.80658,
     "Longitude": 32.07568
   },
@@ -2558,7 +2558,7 @@
     "Name_EN": "United States Minor Outlying Islands",
     "Name_FA": "جزایر دورافتاده ایالات متحده",
     "Name_AR": "جزر الولايات المتحدة النايية",
-    "PhoneCode": "1",
+    "PhoneCode": "+1",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -2569,7 +2569,7 @@
     "Name_EN": "United States",
     "Name_FA": "ایالات متحده امریکا",
     "Name_AR": "الاولايات المتحدة الامريكية",
-    "PhoneCode": "1",
+    "PhoneCode": "+1",
     "Latitude": 38.5531,
     "Longitude": -90.55751
   },
@@ -2580,7 +2580,7 @@
     "Name_EN": "Uruguay",
     "Name_FA": "اوروگويه",
     "Name_AR": "اروغواي",
-    "PhoneCode": "598",
+    "PhoneCode": "+598",
     "Latitude": -33.48325,
     "Longitude": -56.25152
   },
@@ -2591,7 +2591,7 @@
     "Name_EN": "Uzbekistan",
     "Name_FA": "ازبکستان",
     "Name_AR": "ازبكستان",
-    "PhoneCode": "998",
+    "PhoneCode": "+998",
     "Latitude": 40.59179,
     "Longitude": 67.2645
   },
@@ -2602,7 +2602,7 @@
     "Name_EN": "Vatican",
     "Name_FA": "واتیکان",
     "Name_AR": "الفاتيكان",
-    "PhoneCode": "379",
+    "PhoneCode": "+379",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -2624,7 +2624,7 @@
     "Name_EN": "Venezuela",
     "Name_FA": "ونزويلا",
     "Name_AR": "فنزويلا",
-    "PhoneCode": "58",
+    "PhoneCode": "+58",
     "Latitude": 9.39418,
     "Longitude": -68.2769
   },
@@ -2657,7 +2657,7 @@
     "Name_EN": "Vietnam",
     "Name_FA": "ویتنام",
     "Name_AR": "فيتنام",
-    "PhoneCode": "84",
+    "PhoneCode": "+84",
     "Latitude": 16.48712,
     "Longitude": 106.33957
   },
@@ -2668,7 +2668,7 @@
     "Name_EN": "Vanuatu",
     "Name_FA": "وانواتو",
     "Name_AR": "فانواتو",
-    "PhoneCode": "678",
+    "PhoneCode": "+678",
     "Latitude": -16.20882,
     "Longitude": 167.75456
   },
@@ -2679,7 +2679,7 @@
     "Name_EN": "Wallis and Futuna",
     "Name_FA": "والیس و فوتونا",
     "Name_AR": "والس وفوتونا",
-    "PhoneCode": "681",
+    "PhoneCode": "+681",
     "Latitude": -13.47525,
     "Longitude": -176.53921
   },
@@ -2690,7 +2690,7 @@
     "Name_EN": "Samoa",
     "Name_FA": "ساموا",
     "Name_AR": "ساموا",
-    "PhoneCode": "685",
+    "PhoneCode": "+685",
     "Latitude": -13.77691,
     "Longitude": -172.02488
   },
@@ -2701,7 +2701,7 @@
     "Name_EN": "Yemen",
     "Name_FA": "یمن",
     "Name_AR": "اليمن",
-    "PhoneCode": "967",
+    "PhoneCode": "+967",
     "Latitude": 14.89836,
     "Longitude": 45.15801
   },
@@ -2712,7 +2712,7 @@
     "Name_EN": "Mayotte",
     "Name_FA": "مایوت",
     "Name_AR": "مايوت",
-    "PhoneCode": "262",
+    "PhoneCode": "+262",
     "Latitude": -12.82568,
     "Longitude": 45.15239
   },
@@ -2723,7 +2723,7 @@
     "Name_EN": "South Africa",
     "Name_FA": "افریقای جنوبی",
     "Name_AR": "جنوب افريقيا",
-    "PhoneCode": "27",
+    "PhoneCode": "+27",
     "Latitude": -29.00673,
     "Longitude": 26.81484
   },
@@ -2734,7 +2734,7 @@
     "Name_EN": "Zambia",
     "Name_FA": "زامبیا",
     "Name_AR": "زامبيا",
-    "PhoneCode": "260",
+    "PhoneCode": "+260",
     "Latitude": -13.55052,
     "Longitude": 28.12245
   },
@@ -2745,7 +2745,7 @@
     "Name_EN": "Zimbabwe",
     "Name_FA": "زیمبابوه",
     "Name_AR": "زيمبابوي",
-    "PhoneCode": "263",
+    "PhoneCode": "+263",
     "Latitude": -18.49415,
     "Longitude": 30.35458
   },
@@ -2756,7 +2756,7 @@
     "Name_EN": "Serbia and Montenegro",
     "Name_FA": "",
     "Name_AR": "صربيا والجبل الاسود",
-    "PhoneCode": "381",
+    "PhoneCode": "+381",
     "Latitude": 0,
     "Longitude": 0
   },
@@ -2767,7 +2767,7 @@
     "Name_EN": "Netherlands Antilles",
     "Name_FA": "",
     "Name_AR": "الانتيل الهولندية",
-    "PhoneCode": "599",
+    "PhoneCode": "+599",
     "Latitude": 0,
     "Longitude": 0
   }
