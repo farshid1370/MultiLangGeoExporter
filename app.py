@@ -56,11 +56,11 @@ with open("countryInfo.txt", encoding='utf-8') as f:
 
         iso = parts[0]
         name_en = parts[4]
-        phone_code = parts[12]
+        calling_code = parts[12]
         languages = parts[15]
         geonameid = parts[16]
-        if not phone_code.startswith('+'):
-            phone_code = f"+{phone_code}"
+        if not calling_code.startswith('+'):
+            calling_code = f"+{calling_code}"
         country_id_map[iso] = geonameid
         countries[iso] = {
             "Id": str(geonameid),
@@ -69,7 +69,7 @@ with open("countryInfo.txt", encoding='utf-8') as f:
             "Name_EN": name_en,
             "Name_FA": alt_names.get(geonameid, {}).get('fa') or "",
             "Name_AR": alt_names.get(geonameid, {}).get('ar') or "",
-            "PhoneCode": phone_code,
+            "CallingCode": calling_code,
             "Latitude": 0,
             "Longitude": 0,
         }
@@ -130,7 +130,6 @@ with open("cities500.txt", encoding='utf-8') as f:
         country_iso = parts[8]
         admin1 = parts[10]
         timezone = parts[17]
-
         code = f"{country_iso}.{admin1}"
         country_id = country_id_map.get(country_iso)
         state_id = state_id_map.get(code)
